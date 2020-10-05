@@ -1,0 +1,209 @@
+codigo,descripcion,kg, ean ,categoria,tipo,arriba,abajo,precio
+3670004,Babycat 34,"0,4", 7790187100015 ,Growth,gato,0,0,0
+3670020,Babycat 34,2, 7790187100022 ,Growth,gato,0,0,0
+3683004,Kitten,"0,4", 7790187338678 ,Growth,gato,0,0,0
+3680020,Kitten,2, 7790187100060 ,Growth,gato,0,0,0
+3683075,Kitten,"7,5", 7790187338692 ,Growth,gato,0,0,0
+3613004,Indoor,"0,4", 7790187338708 ,Indoor,gato,0,0,0
+3613015,Indoor,"1,5", 7790187338715 ,Indoor,gato,0,0,0
+3613075,Indoor,"7,5", 7790187338722 ,Indoor,gato,0,0,0
+3623015,Indoor longhair ,"1,5", 7790187339460 ,Indoor,gato,0,0,0
+3663004,Indoor 7+,"0,4", 7790187338739 ,Indoor,gato,0,0,0
+3663015,Indoor 7+,"1,5", 7790187338746 ,Indoor,gato,0,0,0
+3663075,Indoor 7+,"7,5",7790187338753 ,Indoor,gato,0,0,0
+3603004,Fit ,"0,4", 7790187339323 ,In & Outdoor,gato,0,0,0
+3603015,Fit ,"1,5", 7790187339330 ,In & Outdoor,gato,0,0,0
+3603075,Fit ,"7,5", 7790187339347 ,In & Outdoor,gato,0,0,0
+3603150,Fit ,15, 7790187339354 ,In & Outdoor,gato,0,0,0
+3653015,Active 7+,"1,5",7790187339415,In & Outdoor,gato,0,0,0
+3643004,Exigent ,"0,4", 7790187339392 ,Special,gato,0,0,0
+3643015,Exigent ,"1,5", 7790187339408 ,Special,gato,0,0,0
+3630004,Sensible 33,"0,4", 7790187100381 ,Special,gato,0,0,0
+3630020,Sensible 34,2, 7790187100398 ,Special,gato,0,0,0
+3630075,Sensible 35,"7,5", 7790187005266 ,Special,gato,0,0,0
+3363015,Persian,"1,5", 7790187339422 ,Feline Breed Nutrition,gato,0,0,0
+3363075,Persian,"7,5", 7790187339439 ,Feline Breed Nutrition,gato,0,0,0
+3364015,Siamese,"1,5", 7790187339446 ,Feline Breed Nutrition,gato,0,0,0
+3364075,Siamese,"7,5", 7790187339453 ,Feline Breed Nutrition,gato,0,0,0
+3401198,"FHN KITTEN INSTINCTIVE (12x0,165)","1,98", 7790187339002 ,Feline Health Nutrition (HÚMEDOS),gato,0,0,0
+3393102,INSTINCTIVE Pouch (12x85g),"1,02", 9003579308936 ,Feline Health Nutrition (HÚMEDOS),gato,0,0,0
+3394102,INSTINCTIVE 7+ Pouch (12x85g),"1,02", 9003579310168 ,Feline Health Nutrition (HÚMEDOS),gato,0,0,0
+3398102,ULTRA LIGHT Pouch (12x85g),"1,02", 9003579308769 ,Feline Care Nutrition (HÚMEDOS),gato,0,0,0
+3391102,DIGEST SENSITIVE Pouch (12x85g),"1,02", 9003579309537 ,Feline Care Nutrition (HÚMEDOS),gato,0,0,0
+3396102,INTENSE BEAUTY Pouch (12x85g),"1,02", 9003579308929 ,Feline Care Nutrition (HÚMEDOS),gato,0,0,0
+3375004,Light,"0,4", 7790187005051 ,Feline Care Nutrition ,gato,0,0,0
+3375015,Light,"1,5", 7790187005068 ,Feline Care Nutrition ,gato,0,0,0
+3375075,Light,"7,5", 7790187005075 ,Feline Care Nutrition ,gato,0,0,0
+3376020,Hair & Skin Care,2, 7790187005235 ,Feline Care Nutrition ,gato,0,0,0
+3377015,Hairball Care,"1,5", 7790187005099 ,Feline Care Nutrition ,gato,0,0,0
+3378020,Digestive Care,2, 7790187005297 ,Feline Care Nutrition ,gato,0,0,0
+3379004,Urinary Care,"0,4", 7790187005112 ,Feline Care Nutrition ,gato,0,0,0
+3379015,Urinary Care,"1,5", 7790187005129 ,Feline Care Nutrition ,gato,0,0,0
+3379075,Urinary Care,"7,5", 7790187005136 ,Feline Care Nutrition ,gato,0,0,0
+1231015,Gatos Castrados-Young Male,"1,5", 7790187003057 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1231035,Gatos Castrados-Young Male,"3,5", 7790187003064 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1232015,Gatos Castrados-Young Female,"1,5", 7790187003095 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1232035,Gatos Castrados-Young Female,"3,5", 7790187003101 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235004,Gatos Castrados-Weight Control ,"0,4", 7790187003125 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235015,Gatos Castrados-Weight Control ,"1,5", 7790187003132 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235030,Gatos Castrados-Weight Control ,3, 7790187003149 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235075,Gatos Castrados-Weight Control ,"7,5", 7790187003156 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235120,Gatos Castrados-Weight Control ,12, 7790187003163 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1233015,Mature Consult-Stage1,"1,5", 7790187003170 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1233035,Mature Consult-Stage1,"3,5", 7790187003187 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1234015,Senior Consult-Stage2,"1,5", 7790187003194 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1234030,Senior Consult-Stage2,3, 7790187003200 ,Veterinary Care Nutrition (SECOS),gato,0,0,0
+2811020,Hypoallergenic,2,7790187339316,Veterinary Diet Cat (SECOS),gato,0,0,0
+2114020,Calm Cat,2, 7790187003248 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2131020,Gastrointestinal Cat,2, 7790187339170 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2133020,Gastrointestinal Moderate Calorie Cat ,2, 7790187339187 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2132020,Fibre Response Cat,2, 7790187339194 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2123015,Obesity,"1,5", 7790187004993 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2209004,Urinary S/O High Dilution,"0,4", 7790187338852 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2209015,Urinary S/O High Dilution,"1,5", 7790187338869 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2209075,Urinary S/O High Dilution,"7,5", 7790187338876 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2125020,Satiety Feline,2, 7790187004986 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2120020,Renal,2, 7790187338531 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2105115,Diabetic Feline ,"1,5", 7790187005006 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+2117015,Hepatic,"1,5", 7790187003804 ,Veterinary Diet Cat (SECOS),gato,0,0,0
+3400102,RENAL CHICKEN CAT Pouch (12x85gr),"1,02", 9003579000458 ,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3398812,GASTROINTESTINAL Pouch (12x100gr),"1,2", 9003579005712 ,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3390102,URINARY S/O CAT Pouch (12x100gr),"1,2", 9003579305461 ,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3391212,SENIOR Consult - Stage 1 (12*100gr),"1,2", 9003579311240 ,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3391312,SENIOR Consult - Stage 2 (12*100gr),"1,2", 9003579311257 ,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3403198,"STARTER MOUSSE (6x0,165gr)","0,99kg", 7790187338944 ,SIZE HEALTH NUTRITION (humedos),gato,0,0,0
+2450110,X- Small Junior ,1, 7790187003521 ,X-Small,perro,0,0,0
+2450210,X- Small Adulto,1, 7790187003538 ,X-Small,perro,0,0,0
+2436010,Starter Mini,1, 7790187001893 ,Mini,perro,0,0,0
+2436030,Starter Mini,3, 7790187001923 ,Mini,perro,0,0,0
+2437010,Mini Junior,1, 7790187001985 ,Mini,perro,0,0,0
+2437030,Mini Junior,3, 7790187001992 ,Mini,perro,0,0,0
+2437075,Mini Junior,"7,5", 7790187002005 ,Mini,perro,0,0,0
+2437150,Mini Junior,15, 7790187002234 ,Mini,perro,0,0,0
+2451010,Mini Adult,1, 7790187003569 ,Mini,perro,0,0,0
+2451030,Mini Adult,3, 7790187003576 ,Mini,perro,0,0,0
+2451075,Mini Adult,"7,5", 7790187003590 ,Mini,perro,0,0,0
+2454010,Mini Indoor,1, 7790187003651 ,Mini,perro,0,0,0
+2454030,Mini Indoor,3, 7790187003644 ,Mini,perro,0,0,0
+2452010,Mini Adult 8+,1, 7790187003613 ,Mini,perro,0,0,0
+2452030,Mini Adult 8+,3, 7790187003620 ,Mini,perro,0,0,0
+2456010,Mini Ageing 12+,1, 7790187003637 ,Mini,perro,0,0,0
+2456030,Mini Ageing 12+,3, 7790187003361 ,Mini,perro,0,0,0
+2453010,Mini Weight Care,1, 7790187003378 ,Mini,perro,0,0,0
+2453030,Mini Weight Care,3, 7790187003385 ,Mini,perro,0,0,0
+2455010,Mini Dermacomfort,1, 7790187003699 ,Mini,perro,0,0,0
+2455030,Mini Dermacomfort,3, 7790187003705 ,Mini,perro,0,0,0
+2437078,MINI JUNIOR Can (4x195gr),"0,78", 7790187339927 ,Mini (HÚMEDOS),perro,0,0,0
+2453078,MINI ADULT LIGHT Can (4x195gr),"0,78", 7790187339910 ,Mini (HÚMEDOS),perro,0,0,0
+2452078,MINI MATURE+8 Can (4x195gr),"0,78", 7790187339934 ,Mini (HÚMEDOS),perro,0,0,0
+2425030,Starter Medium,3, 7790187004771 ,Medium,perro,0,0,0
+2427010,Medium Junior,1, 7790187339682 ,Medium,perro,0,0,0
+2427030,Medium Junior,3, 7790187339699 ,Medium,perro,0,0,0
+2427150,Medium Junior,15, 7790187339705 ,Medium,perro,0,0,0
+2621030,Medium Adult,3, 7790187003972 ,Medium,perro,0,0,0
+2621075,Medium Adult,"7,5", 7790187003989 ,Medium,perro,0,0,0
+2621150,Medium Adult,15, 7790187003965 ,Medium,perro,0,0,0
+2622030,Medium  Adult 7+,3, 7790187004016 ,Medium,perro,0,0,0
+2622150,Medium  Adult 7+,15, 7790187004009 ,Medium,perro,0,0,0
+2633150,Medium Ageing 10+,15, 7790187004061 ,Medium,perro,0,0,0
+2623030,Medium Weight Care,3, 7790187004047 ,Medium,perro,0,0,0
+2623150,Medium Weight Care,15, 7790187004054 ,Medium,perro,0,0,0
+2624030,Medium Dermacomfort,3, 7790187004023 ,Medium,perro,0,0,0
+2624150,Medium Dermacomfort,15, 7790187004030 ,Medium,perro,0,0,0
+2415100,Starter Maxi,10, 7790187001909 ,Maxi,perro,0,0,0
+2416010,Maxi Puppy,1, 7790187339743 ,Maxi,perro,0,0,0
+2415030,Maxi Puppy,3, 7790187339750 ,Maxi,perro,0,0,0
+2415150,Maxi Puppy,15, 7790187339767 ,Maxi,perro,0,0,0
+2501030,Maxi Adult,3, 7790187004085 ,Maxi,perro,0,0,0
+2501150,Maxi Adult,15, 7790187004078 ,Maxi,perro,0,0,0
+2511150,Maxi Adult 5+ ,15, 7790187004092 ,Maxi,perro,0,0,0
+2502150,Maxi Ageing 8+,15, 7790187004139 ,Maxi,perro,0,0,0
+2503150,Maxi Weight Care,15, 7790187004153 ,Maxi,perro,0,0,0
+2504150,Maxi Dermacomfort,15, 7790187004122 ,Maxi,perro,0,0,0
+2410100,Starter Giant ,10, 7790187001916 ,Giant,perro,0,0,0
+2411010,Giant Puppy,1, 7790187004740 ,Giant,perro,0,0,0
+2411150,Giant Puppy,15, 7790187002074 ,Giant,perro,0,0,0
+2412150,Giant Junior,15, 7790187002098 ,Giant,perro,0,0,0
+2707150,Giant Adult,15, 7790187004160 ,Giant,perro,0,0,0
+3404102,POODLE Pouch (12x85gr) ,"1,02", 9003579001653 ,Breed Health Nutrition (HUMEDOS),perro,0,0,0
+3403102,YORKSHIRE Pouch (12x85gr) ,"1,02", 9003579001448 ,Breed Health Nutrition (HUMEDOS),perro,0,0,0
+3746010,Chihuahua Adulto,1, 7790187005525 ,Breed Health Nutrition,perro,0,0,0
+3713010,Yorkshire Terrier Junior,1, 7790187005549 ,Breed Health Nutrition,perro,0,0,0
+3713030,Yorkshire Terrier Junior,3, 7790187005532 ,Breed Health Nutrition,perro,0,0,0
+3740010,Yorkshire Terrier Adulto,1, 7790187005389 ,Breed Health Nutrition,perro,0,0,0
+3740030,Yorkshire Terrier Adulto,3, 7790187005396 ,Breed Health Nutrition,perro,0,0,0
+3712010,Caniche Junior,1, 7790187005518 ,Breed Health Nutrition,perro,0,0,0
+3712030,Caniche Junior,3, 7790187005501 ,Breed Health Nutrition,perro,0,0,0
+3741010,Caniche Adulto,1, 7790187005327 ,Breed Health Nutrition,perro,0,0,0
+3741030,Caniche Adulto,3, 7790187005334 ,Breed Health Nutrition,perro,0,0,0
+3741075,Caniche Adulto,"7,5", 7790187005341 ,Breed Health Nutrition,perro,0,0,0
+3742030,Dachshund Adulto,3, 7790187005471 ,Breed Health Nutrition,perro,0,0,0
+3744030,Schnauzer Miniature Adulto,3, 7790187005433 ,Breed Health Nutrition,perro,0,0,0
+3747010,Bulldog Frances Junior ,1, 7790187338791 ,Breed Health Nutrition,perro,0,0,0
+3747030,Bulldog Frances Junior ,3, 7790187005488 ,Breed Health Nutrition,perro,0,0,0
+3746030,Bulldog Francés Adulto,3, 7790187005365 ,Breed Health Nutrition,perro,0,0,0
+3746075,Bulldog Francés Adulto,"7,5", 7790187005495 ,Breed Health Nutrition,perro,0,0,0
+3745120,Bulldog Adulto,12, 7790187005464 ,Breed Health Nutrition,perro,0,0,0
+3710010,Ovejero Alemán Junior ,1, 7790187338654 ,Breed Health Nutrition,perro,0,0,0
+3712120,Ovejero Alemán Junior ,12, 7790187005426 ,Breed Health Nutrition,perro,0,0,0
+3710120,Ovejero Alemán Adulto,12, 7790187005310 ,Breed Health Nutrition,perro,0,0,0
+3721010,Labrador Retriever Junior ,1, 7790187338661 ,Breed Health Nutrition,perro,0,0,0
+3721120,Labrador Retriever Junior ,12, 7790187005440 ,Breed Health Nutrition,perro,0,0,0
+3711120,Labrador Retriever Adulto,12, 7790187005402 ,Breed Health Nutrition,perro,0,0,0
+3714010,Boxer Junior ,1, 7790187338647 ,Breed Health Nutrition,perro,0,0,0
+3714120,Boxer Junior ,12, 7790187005372 ,Breed Health Nutrition,perro,0,0,0
+3212120,Boxer Adulto,12, 7790187000278 ,Breed Health Nutrition,perro,0,0,0
+3716010,Golden Retriever Junior ,1, 7790187338630 ,Breed Health Nutrition,perro,0,0,0
+3716120,Golden Retriever Junior ,12, 7790187005358 ,Breed Health Nutrition,perro,0,0,0
+3715120,Golden Retriever Adulto,12, 7790187005419 ,Breed Health Nutrition,perro,0,0,0
+2911020,Hypoallergenic,2,7790187339279,Veterinary Diet Dog (SECOS),perro,0,0,0
+2911100,Hypoallergenic,10,7790187339286,Veterinary Diet Dog (SECOS),perro,0,0,0
+2911150,Hypoallergenic,15,7790187339293,Veterinary Diet Dog (SECOS),perro,0,0,0
+2927020,Hypoallergenic Small Dog,2,7790187339309,Veterinary Diet Dog (SECOS),perro,0,0,0
+2045020,Calm Dog,2, 7790187003231 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+3002020,Skin Care Adult Dog,2, 7790187004498 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+3002100,Skin Care Adult Dog,10, 7790187004504 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2071020,Gastrointestinal Jr. Dog,2, 7790187339132 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2070020,Gastrointestinal Dog,2, 7790187339149 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2070100,Gastrointestinal Dog,10, 7790187339156 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2073100,Gastrointestinal Moderate Calorie Dog,10, 7790187339163 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2046020,Cardiac,2, 7790187002784 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2046100,Cardiac,10, 7790187002791 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2053015,Obesity,"1,5", 7790187004955 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2053075,Obesity,"7,5", 7790187004962 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2053150,Obesity,15, 7790187004979 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2072015,Satiety Support,"1,5", 7790187339101 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2072075,Satiety Support,"7,5", 7790187339118 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2072150,Satiety Support,15, 7790187339125 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2057015,Renal,"1,5", 7790187338517 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2057100,Renal,10, 7790187338524 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2028020,Mobility Support,2, 7790187339200 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2028100,Mobility Support,10, 7790187339217 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2029150,Mobility Larger Dogs,15, 7790187339224 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2019020,Hepatic,2, 7790187003811 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2019100,Hepatic,10, 7790187003828 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2104015,Urinary,"1,5", 7790187338838 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2104100,Urinary,10, 7790187338845 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2006020,Diabetic Canine ,2, 7790187005013 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+2006100,Diabetic Canine ,10, 7790187005020 ,Veterinary Diet Dog (SECOS),perro,0,0,0
+3397112,HYPOALLERGENIC DOG Can (6x200gr),"1,2", 7790187338586 ,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3399217,DIABETIC SPECIAL DOG Can (6x195gr),"1,17", 7790187339385 ,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3392112,HEPATIC Can (6x200gr),"1,2", 7790187338555 ,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3394112,G-INTESTINAL LOW FAT DOG Can (6x200gr),"1,2", 7790187338562 ,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3396112,G-INTESTINAL DOG Can (6x200gr),"1,2", 7790187338579 ,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3391012,RENAL DOG Can (6x200gr),"1,2", 7790187338883 ,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3402198,RECOVERY CAT/DOG Can (12x165gr),"1,98", 7790187338937 ,Veterinary Diet Dog & Cat (HÚMEDOS),gato,0,0,0
+3402002,RECOVERY CAT/DOG Liquid (3x200ml),600ml, 3182559299078 ,Veterinary Diet Dog & Cat (LIQUID),gato,0,0,0
+3400002,RENAL DOG Liquid (3x200ml),600ml, 3182550858854 ,Veterinary Diet Dog & Cat (LIQUID),perro,0,0,0
+3401002,RENAL CAT Liquid (3x200ml),600ml, 3182559299139 ,Veterinary Diet Dog & Cat (LIQUID),gato,0,0,0
+4215075,Club Performance Dog Junior,"7,5", 7790187003873 ,Club Performance  PERRO,perro,0,0,0
+4215150,Club Performance Dog Junior,15, 7790187003880 ,Club Performance  PERRO,perro,0,0,0
+4214020,Club Performance Dog Adulto ,2, 7790187338814 ,Club Performance  PERRO,perro,0,0,0
+4214075,Club Performance Dog Adulto ,"7,5", 7790187003835 ,Club Performance  PERRO,perro,0,0,0
+4214150,Club Performance Dog Adulto ,15, 7790187003842 ,Club Performance  PERRO,perro,0,0,0
+4214200,Club Performance Dog Adulto ,20, 7790187003866 ,Club Performance  PERRO,perro,0,0,0
+4217150,Club Performance Weight Control,15, 7790187003934 ,Club Performance  PERRO,perro,0,0,0
+4274015,Club Performance Cat Kitten,"1,5", 7790187003910 ,Club Performance  GATO,gato,0,0,0
+4274075,Club Performance Cat Kitten,"7,5", 7790187003903 ,Club Performance  GATO,gato,0,0,0
+4272015,Club Performance Cat  ,"1,5", 7790187003927 ,Club Performance  GATO,gato,0,0,0
+4272075,Club Performance Cat  ,"7,5", 7790187003897 ,Club Performance  GATO,gato,0,0,0

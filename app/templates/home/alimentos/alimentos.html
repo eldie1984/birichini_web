@@ -1,0 +1,172 @@
+{% import "bootstrap/utils.html" as utils %}
+{% extends "base.html" %}
+{% block title %}alimentos{% endblock %}
+{% block custom_css %}
+<link   rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-table.min.css') }}">
+{% endblock %}
+{% block body %}
+<div class="content-section">
+  <div class="outer">
+    <div class="middle">
+      <div class="inner">
+        <br/>
+        {{ utils.flashed_messages() }}
+        <br/>
+        <h1 style="text-align:center;">alimentos</h1>
+        {% if alimentos %}
+          <!-- <hr class="intro-divider"> -->
+          <div class="center" style='width:75%'>
+            <table
+                 id="table"
+                 data-toolbar="#toolbar"
+             data-show-refresh="true"
+             data-show-toggle="true"
+             data-show-fullscreen="true"
+             data-show-columns="true"
+             data-show-export="true"
+                 data-minimum-count-columns="2"
+              data-show-pagination-switch="true"
+                 data-filter-control="true"
+                 data-pagination="true"
+                 data-page-list="[10, 25, 50, 100, ALL]">
+                 <thead>
+                 <tr>
+                  <th data-field="codigo" data-filter-control="input" data-sortable="true">Codigo</th>
+                   <th data-field="tipo" data-filter-control="select" data-sortable="true">Tipo</th>
+                   <th data-field="descripcion" data-filter-control="input" data-sortable="true">Producto</th>
+                   <th data-field="ean" data-filter-control="input" data-sortable="true">EAN</th>
+                   <th data-field="proveedor" data-filter-control="select" data-sortable="true">Marca</th>
+                   <th data-field="kg" data-filter-control="select" data-sortable="true">Kg</th>
+                   <th data-field="arriba" data-filter-control="select" data-sortable="true">Local</th>
+                   <th data-field="abajo" data-filter-control="select" data-sortable="true">Deposito</th>
+                   <th data-field="precio" data-sortable="true" data-editable="true">Precio</th>
+                   <th data-field="operate" >Item Price</th>
+                 </tr>
+               </thead>
+              <tbody>
+              {% for alimento in alimentos %}
+                <tr>
+                  <td> {{ alimento.codigo }} </td>
+                  <td> {{ alimento.tipo }} </td>
+                  <td> {{ alimento.descripcion }} </td>
+                  <td> {{ alimento.ean }} </td>
+                  <td> {{ alimento.proveedor }} </td>
+                  <td> {{ alimento.kg }} </td>
+                  <td> {{ alimento.arriba }} </td>
+                  <td> {{ alimento.abajo }} </td>
+                  <td> {{ alimento.precio }} </td>
+                  <td>
+                    <a href="{{ url_for('home.edit_alimento', id=alimento.codigo) }}">
+                      <i class="fa fa-pencil"></i> Edit
+                    </a>
+
+                    <a href="{{ url_for('home.mover_alimento', id=alimento.codigo) }}">
+                      <i class="fa fa-arrow-alt-circle-up"></i> Mover
+                    </a>
+                    <a href="{{ url_for('home.vender_alimento', id=alimento.codigo) }}">
+                      <i class="fa fa-arrow-alt-circle-up"></i> Vender
+                    </a>
+                  </td>
+                </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div style="text-align: center">
+        {% else %}
+          <div style="text-align: center">
+            <h3> No alimentos have been added. </h3>
+            <hr class="intro-divider">
+        {% endif %}
+          <a href="{{ url_for('home.add_alimento') }}" class="btn btn-default btn-lg">
+            <i class="fa fa-plus"></i>
+            Add alimento
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block js %}
+<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/tableExport.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap-table.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap-table-locale-all.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap-table-export.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/fontawesome/all.js') }}" data-auto-replace-svg="nest"></script>
+<script src="{{ url_for('static', filename='js/jquery.autocomplete.min.js') }}"></script>
+<script type="text/javascript">
+var $table = $('#table');
+    $(function () {
+        $('#toolbar').find('select').change(function () {
+            $table.bootstrapTable('refreshOptions', {
+                exportDataType: $(this).val()
+            });
+        });
+    })
+
+		var trBoldBlue = $("table");
+
+	$(trBoldBlue).on("click", "tr", function (){
+			$(this).toggleClass("bold-blue");
+	});
+  function responseHandler(res) {
+    $.each(res.rows, function (i, row) {
+      row.state = $.inArray(row.id, selections) !== -1
+    })
+    return res
+  }
+  function operateFormatter(value, row, index) {
+    return [
+      '<a class="like" href="javascript:void(0)" title="Like">',
+      '<i class="far fa-arrow-alt-circle-up"></i>',
+      '</a>  '
+    ].join('')
+  }
+
+  window.operateEvents = {
+    'click .like': function (e, value, row, index) {
+      if(row.abajo==0){
+        alert("No se puede mover el inventario de un producto que no esta en el Deposito")
+      }
+      else{
+        $.ajax({
+          url: 'updateInventario?codigo='.concat(row.codigo),
+          type:'GET',
+          success:function(result){
+            $table.bootstrapTable('refresh')
+            alert('Se movio el inventario')
+          },
+          error:function(error){
+            console.log('Error ${error}')
+          }
+        })
+        // alert("Moviendo el inventario")
+      }
+      // alert('You click like action, row: ' + JSON.stringify(row))
+    },
+
+  }
+
+  function detailFormatter(index, row) {
+      var html = []
+      $.each(row, function (key, value) {
+        html.push('<p><b>' + key + ':</b> ' + value + '</p>')
+      })
+      return html.join('')
+    }
+ function initTable() {
+   $table.bootstrapTable('destroy').bootstrapTable({
+      height: 700,
+      locale: 'en-US'
+    })
+  }
+
+  $(function() {
+   initTable()
+ })
+</script>
+
+{% endblock %}

@@ -1,0 +1,878 @@
+codigo,descripcion,proveedor,kg,ean,categoria,tipo,arriba,abajo,precio
+100102,OP ADULTO MEDIUM LARGE X2KG,oldprince,2,,,perro,0,7,0
+100104,"OPADULTO MEDIUM LARGE X 7,5KG",oldprince,7.5,,,perro,0,3,0
+100106,OPADULTO MEDIUM LARGE X15KG,oldprince,15,,,perro,0,0,0
+100108,OP ADULTO SMALL BREEDS  X2KG,oldprince,2,,,perro,0,2,0
+100110,"OP ADULTO SMALL BREEDS X7,5KG",oldprince,7.5,,,perro,0,4,0
+100111,OP WEIGHT CONTROL X 15 KG,oldprince,15,,,perro,0,1,0
+100113,OP DERMA DEFENSE X 2KG,oldprince,2,,,perro,0,2,0
+100114,"OP  DERMA DEFENSE  X 7,5KG",oldprince,7.5,,,perro,0,4,0
+100116,OP  DERMA DEFENSE  X 15 KG,oldprince,15,,,perro,0,3,0
+100118,OP PUPPY MEDIUM LARGE X 2KG,oldprince,2,,,perro,0,1,0
+100120,"OP PUPPY MEDIUM LARGE X7,5KG",oldprince,7.5,,,perro,0,5,0
+100122,OPPUPPY MEDIUM LARGE X 15KG,oldprince,15,,,perro,0,2,0
+100124,OP PUPPY SMALL BREEDS X2KG,oldprince,2,,,perro,0,2,0
+100126,"OP PUPPY SMALL BREEDS X7,5KG",oldprince,7.5,,,perro,0,3,0
+100128,OP CAT KITTEN X 1KG,oldprince,1,,,gato,0,2,0
+100130,OP CAT ADULTO COMPLETE X1KG,oldprince,1,,,gato,0,1,0
+100134,OP CAT URINARY X 1KG,oldprince,1,,,gato,0,0,0
+100136,"OP CATURINARY X7,5KG",oldprince,7.5,,,gato,0,0,0
+1231015,Gatos Castrados-Young Male,royal,1.5,7790187003057,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1231035,Gatos Castrados-Young Male,royal,3.5,7790187003064,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1232015,Gatos Castrados-Young Female,royal,1.5,7790187003095,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1232035,Gatos Castrados-Young Female,royal,3.5,7790187003101,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1233015,Mature Consult-Stage1,royal,1.5,7790187003170,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1233035,Mature Consult-Stage1,royal,3.5,7790187003187,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1234015,Senior Consult-Stage2,royal,1.5,7790187003194,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1234030,Senior Consult-Stage2,royal,3,7790187003200,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235004,Gatos Castrados-Weight Control ,royal,0.4,7790187003125,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235015,Gatos Castrados-Weight Control ,royal,1.5,7790187003132,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235030,Gatos Castrados-Weight Control ,royal,3,7790187003149,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235075,Gatos Castrados-Weight Control ,royal,7.5,7790187003156,Veterinary Care Nutrition (SECOS),gato,0,0,0
+1235120,Gatos Castrados-Weight Control ,royal,12,7790187003163,Veterinary Care Nutrition (SECOS),gato,0,0,0
+2006020,Diabetic Canine ,royal,2,7790187005013,Veterinary Diet Dog (SECOS),perro,0,0,0
+2006100,Diabetic Canine ,royal,10,7790187005020,Veterinary Diet Dog (SECOS),perro,0,0,0
+2019020,Hepatic,royal,2,7790187003811,Veterinary Diet Dog (SECOS),perro,0,0,0
+2019100,Hepatic,royal,10,7790187003828,Veterinary Diet Dog (SECOS),perro,0,0,0
+2028020,Mobility Support,royal,2,7790187339200,Veterinary Diet Dog (SECOS),perro,0,0,0
+2028100,Mobility Support,royal,10,7790187339217,Veterinary Diet Dog (SECOS),perro,0,0,0
+2029150,Mobility Larger Dogs,royal,15,7790187339224,Veterinary Diet Dog (SECOS),perro,0,0,0
+2045020,Calm Dog,royal,2,7790187003231,Veterinary Diet Dog (SECOS),perro,0,0,0
+2046020,Cardiac,royal,2,7790187002784,Veterinary Diet Dog (SECOS),perro,0,0,0
+2046100,Cardiac,royal,10,7790187002791,Veterinary Diet Dog (SECOS),perro,0,0,0
+2053015,Obesity,royal,1.5,7790187004955,Veterinary Diet Dog (SECOS),perro,0,0,0
+2053075,Obesity,royal,7.5,7790187004962,Veterinary Diet Dog (SECOS),perro,0,0,0
+2053150,Obesity,royal,15,7790187004979,Veterinary Diet Dog (SECOS),perro,0,0,0
+2057015,Renal,royal,1.5,7790187338517,Veterinary Diet Dog (SECOS),perro,0,0,0
+2057100,Renal,royal,10,7790187338524,Veterinary Diet Dog (SECOS),perro,0,0,0
+2070020,Gastrointestinal Dog,royal,2,7790187339149,Veterinary Diet Dog (SECOS),perro,0,0,0
+2070100,Gastrointestinal Dog,royal,10,7790187339156,Veterinary Diet Dog (SECOS),perro,0,0,0
+2071020,Gastrointestinal Jr. Dog,royal,2,7790187339132,Veterinary Diet Dog (SECOS),perro,0,0,0
+2072015,Satiety Support,royal,1.5,7790187339101,Veterinary Diet Dog (SECOS),perro,0,0,0
+2072075,Satiety Support,royal,7.5,7790187339118,Veterinary Diet Dog (SECOS),perro,0,0,0
+2072150,Satiety Support,royal,15,7790187339125,Veterinary Diet Dog (SECOS),perro,0,0,0
+2073100,Gastrointestinal Moderate Calorie Dog,royal,10,7790187339163,Veterinary Diet Dog (SECOS),perro,0,0,0
+2104015,Urinary,royal,1.5,7790187338838,Veterinary Diet Dog (SECOS),perro,0,0,0
+2104100,Urinary,royal,10,7790187338845,Veterinary Diet Dog (SECOS),perro,0,0,0
+2105115,Diabetic Feline ,royal,1.5,7790187005006,Veterinary Diet Cat (SECOS),gato,0,0,0
+2114020,Calm Cat,royal,2,7790187003248,Veterinary Diet Cat (SECOS),gato,0,0,0
+2117015,Hepatic,royal,1.5,7790187003804,Veterinary Diet Cat (SECOS),gato,0,0,0
+2120020,Renal,royal,2,7790187338531,Veterinary Diet Cat (SECOS),gato,0,0,0
+2123015,Obesity,royal,1.5,7790187004993,Veterinary Diet Cat (SECOS),gato,0,0,0
+2125020,Satiety Feline,royal,2,7790187004986,Veterinary Diet Cat (SECOS),gato,0,0,0
+2131020,Gastrointestinal Cat,royal,2,7790187339170,Veterinary Diet Cat (SECOS),gato,0,0,0
+2132020,Fibre Response Cat,royal,2,7790187339194,Veterinary Diet Cat (SECOS),gato,0,0,0
+2133020,Gastrointestinal Moderate Calorie Cat ,royal,2,7790187339187,Veterinary Diet Cat (SECOS),gato,0,0,0
+2209004,Urinary S/O High Dilution,royal,0.4,7790187338852,Veterinary Diet Cat (SECOS),gato,0,0,0
+2209015,Urinary S/O High Dilution,royal,1.5,7790187338869,Veterinary Diet Cat (SECOS),gato,0,0,0
+2209075,Urinary S/O High Dilution,royal,7.5,7790187338876,Veterinary Diet Cat (SECOS),gato,0,0,0
+2410100,Starter Giant ,royal,10,7790187001916,Giant,perro,0,0,0
+2411010,Giant Puppy,royal,1,7790187004740,Giant,perro,0,0,0
+2411150,Giant Puppy,royal,15,7790187002074,Giant,perro,0,0,0
+2412150,Giant Junior,royal,15,7790187002098,Giant,perro,0,0,0
+2415030,Maxi Puppy,royal,3,7790187339750,Maxi,perro,0,0,0
+2415100,Starter Maxi,royal,10,7790187001909,Maxi,perro,0,0,0
+2415150,Maxi Puppy,royal,15,7790187339767,Maxi,perro,0,0,0
+2416010,Maxi Puppy,royal,1,7790187339743,Maxi,perro,0,0,0
+2425030,Starter Medium,royal,3,7790187004771,Medium,perro,0,0,0
+2427010,Medium Junior,royal,1,7790187339682,Medium,perro,0,0,0
+2427030,Medium Junior,royal,3,7790187339699,Medium,perro,0,0,0
+2427150,Medium Junior,royal,15,7790187339705,Medium,perro,0,0,0
+2436010,Starter Mini,royal,1,7790187001893,Mini,perro,0,0,0
+2436030,Starter Mini,royal,3,7790187001923,Mini,perro,0,0,0
+2437010,Mini Junior,royal,1,7790187001985,Mini,perro,0,0,0
+2437030,Mini Junior,royal,3,7790187001992,Mini,perro,0,0,0
+2437075,Mini Junior,royal,7.5,7790187002005,Mini,perro,0,0,0
+2437078,MINI JUNIOR Can (4x195gr),royal,0.78,7790187339927,Mini (HÚMEDOS),perro,0,0,0
+2437150,Mini Junior,royal,15,7790187002234,Mini,perro,0,0,0
+2450110,X- Small Junior ,royal,1,7790187003521,X-Small,perro,0,0,0
+2450210,X- Small Adulto,royal,1,7790187003538,X-Small,perro,0,0,0
+2451010,Mini Adult,royal,1,7790187003569,Mini,perro,0,0,0
+2451030,Mini Adult,royal,3,7790187003576,Mini,perro,0,0,0
+2451075,Mini Adult,royal,7.5,7790187003590,Mini,perro,0,0,0
+2452010,Mini Adult 8+,royal,1,7790187003613,Mini,perro,0,0,0
+2452030,Mini Adult 8+,royal,3,7790187003620,Mini,perro,0,0,0
+2452078,MINI MATURE+8 Can (4x195gr),royal,0.78,7790187339934,Mini (HÚMEDOS),perro,0,0,0
+2453010,Mini Weight Care,royal,1,7790187003378,Mini,perro,0,0,0
+2453030,Mini Weight Care,royal,3,7790187003385,Mini,perro,0,0,0
+2453078,MINI ADULT LIGHT Can (4x195gr),royal,0.78,7790187339910,Mini (HÚMEDOS),perro,0,0,0
+2454010,Mini Indoor,royal,1,7790187003651,Mini,perro,0,0,0
+2454030,Mini Indoor,royal,3,7790187003644,Mini,perro,0,0,0
+2455010,Mini Dermacomfort,royal,1,7790187003699,Mini,perro,0,0,0
+2455030,Mini Dermacomfort,royal,3,7790187003705,Mini,perro,0,0,0
+2456010,Mini Ageing 12+,royal,1,7790187003637,Mini,perro,0,0,0
+2456030,Mini Ageing 12+,royal,3,7790187003361,Mini,perro,0,0,0
+2501030,Maxi Adult,royal,3,7790187004085,Maxi,perro,0,0,0
+2501150,Maxi Adult,royal,15,7790187004078,Maxi,perro,0,0,0
+2502150,Maxi Ageing 8+,royal,15,7790187004139,Maxi,perro,0,0,0
+2503150,Maxi Weight Care,royal,15,7790187004153,Maxi,perro,0,0,0
+2504150,Maxi Dermacomfort,royal,15,7790187004122,Maxi,perro,0,0,0
+2511150,Maxi Adult 5+ ,royal,15,7790187004092,Maxi,perro,0,0,0
+2621030,Medium Adult,royal,3,7790187003972,Medium,perro,0,0,0
+2621075,Medium Adult,royal,7.5,7790187003989,Medium,perro,0,0,0
+2621150,Medium Adult,royal,15,7790187003965,Medium,perro,0,0,0
+2622030,Medium  Adult 7+,royal,3,7790187004016,Medium,perro,0,0,0
+2622150,Medium  Adult 7+,royal,15,7790187004009,Medium,perro,0,0,0
+2623030,Medium Weight Care,royal,3,7790187004047,Medium,perro,0,0,0
+2623150,Medium Weight Care,royal,15,7790187004054,Medium,perro,0,0,0
+2624030,Medium Dermacomfort,royal,3,7790187004023,Medium,perro,0,0,0
+2624150,Medium Dermacomfort,royal,15,7790187004030,Medium,perro,0,0,0
+2633150,Medium Ageing 10+,royal,15,7790187004061,Medium,perro,0,0,0
+2707150,Giant Adult,royal,15,7790187004160,Giant,perro,0,0,0
+2811020,Hypoallergenic,royal,2,7790187339316,Veterinary Diet Cat (SECOS),gato,0,0,0
+2911020,Hypoallergenic,royal,2,7790187339279,Veterinary Diet Dog (SECOS),perro,0,0,0
+2911100,Hypoallergenic,royal,10,7790187339286,Veterinary Diet Dog (SECOS),perro,0,0,0
+2911150,Hypoallergenic,royal,15,7790187339293,Veterinary Diet Dog (SECOS),perro,0,0,0
+2927020,Hypoallergenic Small Dog,royal,2,7790187339309,Veterinary Diet Dog (SECOS),perro,0,0,0
+3002020,Skin Care Adult Dog,royal,2,7790187004498,Veterinary Diet Dog (SECOS),perro,0,0,0
+3002100,Skin Care Adult Dog,royal,10,7790187004504,Veterinary Diet Dog (SECOS),perro,0,0,0
+3212120,Boxer Adulto,royal,12,7790187000278,Breed Health Nutrition,perro,0,0,0
+3363015,Persian,royal,1.5,7790187339422,Feline Breed Nutrition,gato,0,0,0
+3363075,Persian,royal,7.5,7790187339439,Feline Breed Nutrition,gato,0,0,0
+3364015,Siamese,royal,1.5,7790187339446,Feline Breed Nutrition,gato,0,0,0
+3364075,Siamese,royal,7.5,7790187339453,Feline Breed Nutrition,gato,0,0,0
+3375004,Light,royal,0.4,7790187005051,Feline Care Nutrition ,gato,0,0,0
+3375015,Light,royal,1.5,7790187005068,Feline Care Nutrition ,gato,0,0,0
+3375075,Light,royal,7.5,7790187005075,Feline Care Nutrition ,gato,0,0,0
+3376020,Hair & Skin Care,royal,2,7790187005235,Feline Care Nutrition ,gato,0,0,0
+3377015,Hairball Care,royal,1.5,7790187005099,Feline Care Nutrition ,gato,0,0,0
+3378020,Digestive Care,royal,2,7790187005297,Feline Care Nutrition ,gato,0,0,0
+3379004,Urinary Care,royal,0.4,7790187005112,Feline Care Nutrition ,gato,0,0,0
+3379015,Urinary Care,royal,1.5,7790187005129,Feline Care Nutrition ,gato,0,0,0
+3379075,Urinary Care,royal,7.5,7790187005136,Feline Care Nutrition ,gato,0,0,0
+3390102,URINARY S/O CAT Pouch (12x100gr),royal,1.2,9003579305461,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3391012,RENAL DOG Can (6x200gr),royal,1.2,7790187338883,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3391102,DIGEST SENSITIVE Pouch (12x85g),royal,1.02,9003579309537,Feline Care Nutrition (HÚMEDOS),gato,0,0,0
+3391212,SENIOR Consult - Stage 1 (12*100gr),royal,1.2,9003579311240,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3391312,SENIOR Consult - Stage 2 (12*100gr),royal,1.2,9003579311257,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3392112,HEPATIC Can (6x200gr),royal,1.2,7790187338555,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3393102,INSTINCTIVE Pouch (12x85g),royal,1.02,9003579308936,Feline Health Nutrition (HÚMEDOS),gato,0,0,0
+3394102,INSTINCTIVE 7+ Pouch (12x85g),royal,1.02,9003579310168,Feline Health Nutrition (HÚMEDOS),gato,0,0,0
+3394112,G-INTESTINAL LOW FAT DOG Can (6x200gr),royal,1.2,7790187338562,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3396102,INTENSE BEAUTY Pouch (12x85g),royal,1.02,9003579308929,Feline Care Nutrition (HÚMEDOS),gato,0,0,0
+3396112,G-INTESTINAL DOG Can (6x200gr),royal,1.2,7790187338579,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3397112,HYPOALLERGENIC DOG Can (6x200gr),royal,1.2,7790187338586,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3398102,ULTRA LIGHT Pouch (12x85g),royal,1.02,9003579308769,Feline Care Nutrition (HÚMEDOS),gato,0,0,0
+3398812,GASTROINTESTINAL Pouch (12x100gr),royal,1.2,9003579005712,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3399217,DIABETIC SPECIAL DOG Can (6x195gr),royal,1.17,7790187339385,Veterinary Diet Dog (HÚMEDOS),perro,0,0,0
+3400002,RENAL DOG Liquid (3x200ml),royal,600ml,3182550858854,Veterinary Diet Dog & Cat (LIQUID),perro,0,0,0
+3400102,RENAL CHICKEN CAT Pouch (12x85gr),royal,1.02,9003579000458,Veterinary Diet Cat (HÚMEDOS),gato,0,0,0
+3401002,RENAL CAT Liquid (3x200ml),royal,600ml,3182559299139,Veterinary Diet Dog & Cat (LIQUID),gato,0,0,0
+3401198,"FHN KITTEN INSTINCTIVE (12x0,165)",royal,1.98,7790187339002,Feline Health Nutrition (HÚMEDOS),gato,0,0,0
+3402002,RECOVERY CAT/DOG Liquid (3x200ml),royal,600ml,3182559299078,Veterinary Diet Dog & Cat (LIQUID),gato,0,0,0
+3402198,RECOVERY CAT/DOG Can (12x165gr),royal,1.98,7790187338937,Veterinary Diet Dog & Cat (HÚMEDOS),gato,0,0,0
+3403102,YORKSHIRE Pouch (12x85gr) ,royal,1.02,9003579001448,Breed Health Nutrition (HUMEDOS),perro,0,0,0
+3403198,"STARTER MOUSSE (6x0,165gr)",royal,0.99kg,7790187338944,SIZE HEALTH NUTRITION (humedos),gato,0,0,0
+3404102,POODLE Pouch (12x85gr) ,royal,1.02,9003579001653,Breed Health Nutrition (HUMEDOS),perro,0,0,0
+3603004,Fit ,royal,0.4,7790187339323,In & Outdoor,gato,0,0,0
+3603015,Fit ,royal,1.5,7790187339330,In & Outdoor,gato,0,0,0
+3603075,Fit ,royal,7.5,7790187339347,In & Outdoor,gato,0,0,0
+3603150,Fit ,royal,15,7790187339354,In & Outdoor,gato,0,0,0
+3613004,Indoor,royal,0.4,7790187338708,Indoor,gato,0,0,0
+3613015,Indoor,royal,1.5,7790187338715,Indoor,gato,0,0,0
+3613075,Indoor,royal,7.5,7790187338722,Indoor,gato,0,0,0
+3623015,Indoor longhair ,royal,1.5,7790187339460,Indoor,gato,0,0,0
+3630004,Sensible 33,royal,0.4,7790187100381,Special,gato,0,0,0
+3630020,Sensible 34,royal,2,7790187100398,Special,gato,0,0,0
+3630075,Sensible 35,royal,7.5,7790187005266,Special,gato,0,0,0
+3643004,Exigent ,royal,0.4,7790187339392,Special,gato,0,0,0
+3643015,Exigent ,royal,1.5,7790187339408,Special,gato,0,0,0
+3653015,Active 7+,royal,1.5,7790187339415,In & Outdoor,gato,0,0,0
+3663004,Indoor 7+,royal,0.4,7790187338739,Indoor,gato,0,0,0
+3663015,Indoor 7+,royal,1.5,7790187338746,Indoor,gato,0,0,0
+3663075,Indoor 7+,royal,7.5,7790187338753,Indoor,gato,0,0,0
+3670004,Babycat 34,royal,0.4,7790187100015,Growth,gato,0,0,0
+3670020,Babycat 34,royal,2,7790187100022,Growth,gato,0,0,0
+3680020,Kitten,royal,2,7790187100060,Growth,gato,0,0,0
+3683004,Kitten,royal,0.4,7790187338678,Growth,gato,0,0,0
+3683075,Kitten,royal,7.5,7790187338692,Growth,gato,0,0,0
+3710010,Ovejero Alemán Junior ,royal,1,7790187338654,Breed Health Nutrition,perro,0,0,0
+3710120,Ovejero Alemán Adulto,royal,12,7790187005310,Breed Health Nutrition,perro,0,0,0
+3711120,Labrador Retriever Adulto,royal,12,7790187005402,Breed Health Nutrition,perro,0,0,0
+3712010,Caniche Junior,royal,1,7790187005518,Breed Health Nutrition,perro,0,0,0
+3712030,Caniche Junior,royal,3,7790187005501,Breed Health Nutrition,perro,0,0,0
+3712120,Ovejero Alemán Junior ,royal,12,7790187005426,Breed Health Nutrition,perro,0,0,0
+3713010,Yorkshire Terrier Junior,royal,1,7790187005549,Breed Health Nutrition,perro,0,0,0
+3713030,Yorkshire Terrier Junior,royal,3,7790187005532,Breed Health Nutrition,perro,0,0,0
+3714010,Boxer Junior ,royal,1,7790187338647,Breed Health Nutrition,perro,0,0,0
+3714120,Boxer Junior ,royal,12,7790187005372,Breed Health Nutrition,perro,0,0,0
+3715120,Golden Retriever Adulto,royal,12,7790187005419,Breed Health Nutrition,perro,0,0,0
+3716010,Golden Retriever Junior ,royal,1,7790187338630,Breed Health Nutrition,perro,0,0,0
+3716120,Golden Retriever Junior ,royal,12,7790187005358,Breed Health Nutrition,perro,0,0,0
+3721010,Labrador Retriever Junior ,royal,1,7790187338661,Breed Health Nutrition,perro,0,0,0
+3721120,Labrador Retriever Junior ,royal,12,7790187005440,Breed Health Nutrition,perro,0,0,0
+3740010,Yorkshire Terrier Adulto,royal,1,7790187005389,Breed Health Nutrition,perro,0,0,0
+3740030,Yorkshire Terrier Adulto,royal,3,7790187005396,Breed Health Nutrition,perro,0,0,0
+3741010,Caniche Adulto,royal,1,7790187005327,Breed Health Nutrition,perro,0,0,0
+3741030,Caniche Adulto,royal,3,7790187005334,Breed Health Nutrition,perro,0,0,0
+3741075,Caniche Adulto,royal,7.5,7790187005341,Breed Health Nutrition,perro,0,0,0
+3742030,Dachshund Adulto,royal,3,7790187005471,Breed Health Nutrition,perro,0,0,0
+3744030,Schnauzer Miniature Adulto,royal,3,7790187005433,Breed Health Nutrition,perro,0,0,0
+3745120,Bulldog Adulto,royal,12,7790187005464,Breed Health Nutrition,perro,0,0,0
+3746010,Chihuahua Adulto,royal,1,7790187005525,Breed Health Nutrition,perro,0,0,0
+3746030,Bulldog Francés Adulto,royal,3,7790187005365,Breed Health Nutrition,perro,0,0,0
+3746075,Bulldog Francés Adulto,royal,7.5,7790187005495,Breed Health Nutrition,perro,0,0,0
+3747010,Bulldog Frances Junior ,royal,1,7790187338791,Breed Health Nutrition,perro,0,0,0
+3747030,Bulldog Frances Junior ,royal,3,7790187005488,Breed Health Nutrition,perro,0,0,0
+4214020,Club Performance Dog Adulto ,royal,2,7790187338814,Club Performance  PERRO,perro,0,0,0
+4214075,Club Performance Dog Adulto ,royal,7.5,7790187003835,Club Performance  PERRO,perro,0,0,0
+4214150,Club Performance Dog Adulto ,royal,15,7790187003842,Club Performance  PERRO,perro,0,0,0
+4214200,Club Performance Dog Adulto ,royal,20,7790187003866,Club Performance  PERRO,perro,0,0,0
+4215075,Club Performance Dog Junior,royal,7.5,7790187003873,Club Performance  PERRO,perro,0,0,0
+4215150,Club Performance Dog Junior,royal,15,7790187003880,Club Performance  PERRO,perro,0,0,0
+4217150,Club Performance Weight Control,royal,15,7790187003934,Club Performance  PERRO,perro,0,0,0
+4272015,Club Performance Cat  ,royal,1.5,7790187003927,Club Performance  GATO,gato,0,0,0
+4272075,Club Performance Cat  ,royal,7.5,7790187003897,Club Performance  GATO,gato,0,0,0
+4274015,Club Performance Cat Kitten,royal,1.5,7790187003910,Club Performance  GATO,gato,0,0,0
+4274075,Club Performance Cat Kitten,royal,7.5,7790187003903,Club Performance  GATO,gato,0,0,0
+12232678, PRO PLAN PUPPY LARGE BREED ,pro-plan,15,,,perro,0,0,0
+12232692, PRO-PLAN  PUPPY COMPLETE ,pro-plan,7.5,,,perro,0,0,0
+12232694, PRO-PLAN  PUPPY COMPLETE ,pro-plan,15,,,perro,0,0,0
+12232717,PRO PLAN EXIGENT DOG (SMALL BREED),pro-plan,7.5,,,perro,0,0,0
+12274092, HA () HIPOALERGÉNICO ,pro-plan,3.5,,,gato,0,0,0
+12274225, HA (HYPOALLERGENIC) HIPOALERGÉNICO ,pro-plan,11,,,perro,0,0,0
+12274252, HA (HYPOALLERGENIC) HIPOALERGÉNICO ,pro-plan,3,,,perro,0,0,0
+12274531, HA () HIPOALERGÉNICO ,pro-plan,1.3,,,gato,0,0,0
+12285348, PRO PLAN PUPPY SMALL BREED ,pro-plan,7.5,,,perro,0,0,0
+12286473,EXCELLENT ADULT DOG MEDIUM & LARGE ,pro-plan,3,,,perro,0,1,0
+12286474,EXCELLENT ADULT DOG MEDIUM & LARGE ,pro-plan,15,,,perro,0,0,0
+12286475,EXCELLENT ADULT DOG MEDIUM & LARGE ,pro-plan,20,,,perro,0,0,0
+12286476,EXCELLENT ADULT DOG SMALL BREED ,pro-plan,1,,,perro,0,2,0
+12286477,EXCELLENT ADULT DOG SMALL BREED ,pro-plan,3,,,perro,0,1,0
+12286478,EXCELLENT FORMULA PUPPY ,pro-plan,15,,,perro,0,0,0
+12286479,EXCELLENT FORMULA PUPPY ,pro-plan,20,,,perro,0,0,0
+12286483,EXCELLENT ADULT CAT Chicken & Rice,pro-plan,1,,,gato,1,4,0
+12286484,EXCELLENT ADULT CAT Chicken & Rice,pro-plan,3,,,gato,0,0,0
+12286500,EXCELLENT KITTEN Chicken & Rice,pro-plan,7.5,,,gato,0,0,0
+12286501,EXCELLENT URINARY CAT CH&R,pro-plan,7.5,,,gato,0,0,0
+12286503,EXCELLENT KITTEN Chicken & Rice,pro-plan,1,,,gato,3,8,0
+12286504,EXCELLENT ADULT DOG SMALL BREED ,pro-plan,15,,,perro,0,0,0
+12286505,EXCELLENT ADULT CAT Chicken & Rice,pro-plan,7.5,,,gato,0,0,0
+12286506,EXCELLENT FORMULA ADULT DOG,pro-plan,15,,,perro,0,0,0
+12286507,EXCELLENT ADULT CAT Chicken & Rice,pro-plan,15,,,gato,0,0,0
+12286508,EXCELENT ADULT 7+DOG,pro-plan,15,,,perro,0,0,0
+12286509,EXCELENT ADULT 7+DOG,pro-plan,3,,,perro,0,2,0
+12286510,EXCELLENT ADULT CAT RED. CAL. CH&R ,pro-plan,7.5,,,gato,0,0,0
+12286511,EXCELENT REDUCED CALORIE DOG,pro-plan,15,,,perro,0,0,0
+12286512,EXCELENT REDUCED CALORIE DOG,pro-plan,3,,,perro,0,1,0
+12286513,EXCELLENT PUPPY SMALL BREED CH&R ,pro-plan,15,,,perro,0,0,0
+12286514,EXCELLENT PUPPY SMALL BREED CH&R ,pro-plan,3,,,perro,0,2,0
+12286515,EXCELLENT PUPPY SMALL BREED CH&R ,pro-plan,1,,,perro,0,2,0
+12286516,EXCELLENT PUPPY MEDIUM & LARGE BREED ,pro-plan,20,,,perro,0,0,0
+12286517,EXCELLENT PUPPY MEDIUM & LARGE BREED ,pro-plan,15,,,perro,0,0,0
+12286518,EXCELLENT PUPPY MEDIUM & LARGE BREED CH&R ,pro-plan,1,,,perro,0,1,0
+12286519,EXCELLENT PUPPY MEDIUM & LARGE BREED ,pro-plan,3,,,perro,0,1,0
+12286521,EXCELLENT URINARY CAT CH&R,pro-plan,1,,,gato,2,3,0
+12286522,EXCELLENT ADULT CAT RED. CAL. CH&R ,pro-plan,1,,,gato,1,5,0
+12286610,EXCELLENT FORMULA ADULT DOG,pro-plan,20,,,perro,0,0,0
+12294280,ADULT CAT 7+,pro-plan,3,,,gato,0,0,0
+12294281,ADULT CAT 7+,pro-plan,7.5,,,gato,0,0,0
+12294282,Pro Plan Adult Cat,pro-plan,1,,,gato,2,4,0
+12294283,Pro Plan Adult Cat,pro-plan,3,,,gato,0,0,0
+12294284,Pro Plan Adult Cat,pro-plan,7.5,,,gato,0,0,0
+12294285,SENSITIVE CAT,pro-plan,1,,,gato,0,0,0
+12294286,SENSITIVE CAT,pro-plan,3,,,gato,0,0,0
+12294293,Kitten Protection,pro-plan,1,,,gato,1,11,0
+12294294,Kitten Protection,pro-plan,3,,,gato,0,0,0
+12294295,Kitten Protection,pro-plan,7.5,,,gato,0,0,0
+12294296,STERILIZED CAT,pro-plan,1,,,gato,3,0,0
+12294297,STERILIZED CAT,pro-plan,3,,,gato,0,0,0
+12294298,Pro Plan Urinary Cat,pro-plan,1,,,gato,0,2,0
+12294299,Pro Plan Urinary Cat,pro-plan,7.5,,,gato,0,0,0
+12294310,Pro Plan Urinary Cat,pro-plan,15,,,gato,0,0,0
+12294312,Pro Plan  Reduced Calorie Cat,pro-plan,1,,,gato,0,2,0
+12294313,Pro Plan  Reduced Calorie Cat,pro-plan,3,,,gato,0,0,0
+12294314,Pro Plan  Reduced Calorie Cat,pro-plan,7.5,,,gato,0,0,0
+12294316,ADULT CAT 7+,pro-plan,1,,,gato,2,0,0
+12294317,Pro Plan Adult Cat,pro-plan,15,,,gato,0,0,0
+12294318,SENSITIVE CAT,pro-plan,7.5,,,gato,0,0,0
+12294319,STERILIZED CAT,pro-plan,7.5,,,gato,0,0,0
+12294320,Pro Plan Urinary Cat,pro-plan,3,,,gato,0,0,0
+12294991,PRO PLAN EXIGENT DOG (SMALL BREED),pro-plan,1,,,perro,0,0,0
+12294992,PRO PLAN EXIGENT DOG (SMALL BREED),pro-plan,3,,,perro,1,2,0
+12294993, PRO PLAN PUPPY SMALL BREED ,pro-plan,3,,,perro,1,2,0
+12294994, PRO PLAN PUPPY SMALL BREED ,pro-plan,1,,,perro,0,0,0
+12294995, PRO PLAN PUPPY LARGE BREED ,pro-plan,3,,,perro,3,5,0
+12294996, PRO-PLAN  PUPPY COMPLETE ,pro-plan,3,,,perro,1,0,0
+12295118, PRO-PLAN  PUPPY COMPLETE ,pro-plan,1,,,perro,0,7,0
+12304947, EN (GASTROENTERIC) GASTROENTÉRICO ,pro-plan,1.5,,,perro,0,0,0
+12305047, NF (KIDNEY FUNCTION) NEFROLÓGICO ,pro-plan,1.5,,,perro,0,0,0
+12305048, OM (OBESITY MANAGEMENT) OBESIDAD ,pro-plan,1.5,,,perro,0,0,0
+12305049, EN (GASTROENTERIC) GASTROENTÉRICO ,pro-plan,7.5,,,perro,0,0,0
+12305060, NF (KIDNEY FUNCTION) NEFROLÓGICO ,pro-plan,7.5,,,perro,0,0,0
+12305061, OM (OBESITY MANAGEMENT) OBESIDAD ,pro-plan,7.5,,,perro,0,0,0
+12305062, NF (nEFROLÓGICO ,pro-plan,3,,,gato,0,0,0
+12305063, OM ( OBESIDAD ,pro-plan,3,,,gato,0,0,0
+12305422, OM ( OBESIDAD ,pro-plan,1,,,gato,0,0,0
+12305423, NF (nEFROLÓGICO ,pro-plan,1,,,gato,0,0,0
+12314529,SENSITIVE SKIN RAZA MEDIANA & GRANDE,pro-plan,15,,,perro,0,0,0
+12314530,SENSITIVE SKIN RAZA PEQUEÑA,pro-plan,1,,,perro,0,0,0
+12314533,REDUCED CALORIE RAZA PEQUEÑA,pro-plan,1,,,perro,0,2,0
+12314534,REDUCED CALORIE RAZA PEQUEÑA,pro-plan,3,,,perro,1,3,0
+12314535,REDUCED CALORIE RAZA PEQUEÑA,pro-plan,7.5,,,perro,0,0,0
+12314537,REDUCED CALORIE RAZA MEDIANA & GRANDE,pro-plan,15,,,perro,0,0,0
+12314538,SENSITIVE SKIN RAZA PEQUEÑA,pro-plan,7.5,,,perro,0,0,0
+12314573,SENSITIVE SKIN RAZA MEDIANA & GRANDE,pro-plan,3,,,perro,1,1,0
+12314574,SENSITIVE SKIN RAZA PEQUEÑA,pro-plan,3,,,perro,1,1,0
+12314575,REDUCED CALORIE RAZA MEDIANA & GRANDE,pro-plan,3,,,perro,0,1,0
+12319024,ACTIVE MIND RAZAS MED & GR (+ de 7 años de edad),pro-plan,3,,,perro,2,3,0
+12319025,ACTIVE MIND RAZAS MED & GR (+ de 7 ,pro-plan,15,,,perro,0,0,0
+12319026,ACTIVE MIND RAZAS PEQUEÑAS(+ de 7 años ,pro-plan,7.5,,,perro,0,0,0
+12319027,ACTIVE MIND RAZAS PEQUEÑAS(+ de 7 años ,pro-plan,1,,,perro,0,2,0
+12319028,ACTIVE MIND RAZAS PEQUEÑAS(+ de 7 años ,pro-plan,3,,,perro,1,4,0
+12333786,PRO PLAN ADULT DOG COMPLETE,pro-plan,1,,,perro,0,0,0
+12333787,PRO PLAN ADULT DOG COMPLETE,pro-plan,15,,,perro,0,0,0
+12333789, PRO PLAN ADULT DOG SMALL BREED ,pro-plan,1,,,perro,0,1,0
+12333810, PRO PLAN ADULT DOG SMALL BREED ,pro-plan,3,,,perro,0,0,0
+12334100,PRO PLAN ADULT DOG LARGE BREED,pro-plan,15,,,perro,0,0,0
+12334126,PRO PLAN ADULT DOG LARGE BREED,pro-plan,3,,,perro,1,2,0
+12334128,PRO PLAN ADULT DOG COMPLETE,pro-plan,3,,,perro,2,3,0
+12334191, PRO PLAN ADULT DOG SMALL BREED ,pro-plan,7.5,,,perro,0,0,0
+12345073, PRO PLAN DELICATE DOG (SMALL BREED) ,pro-plan,7.5,,,perro,0,0,0
+12345750, PRO PLAN DELICATE DOG (SMALL BREED) ,pro-plan,1,,,perro,0,0,0
+12345809, PRO PLAN DELICATE DOG (SMALL BREED) ,pro-plan,3,,,perro,0,0,0
+op1243,OP CAT ADULT INDOOR,oldprince,1,,,gato,1,5,0
+175,comed.automatico x 850 gr,PER-ROS,,,,accesorio,0,0,380
+200,HIERBA GATERA,PER-ROS,,,,accesorio,0,0,70
+212,PALITOS FINOS X 200,PER-ROS,,,,accesorio,0,0,281
+226,"PELOTA OVALADA C/PINCHES,CARA,LUNARES XL",PER-ROS,,,,accesorio,0,0,148
+286,BOLSO PORTAMASCOTAS GRANDE,PER-ROS,,,,accesorio,0,0,1200
+291,BOLSO PORTAMASCOTAS CHICO,PER-ROS,,,,accesorio,0,0,850
+294,BOLSO PORTAMASCOTAS MEDIANO,PER-ROS,,,,accesorio,0,0,1000
+303,Chico,PER-ROS,,,,accesorio,0,0,1700
+304,Grande,PER-ROS,,,,accesorio,0,0,2100
+308,CANGURO JEAN OSITO PELUCHE TALLE S,PER-ROS,,,,accesorio,0,0,834
+311,CANGURO JEAN OSITO PELUCHE TALLE M,PER-ROS,,,,accesorio,0,0,1072
+385,caja locion surtida,PER-ROS,,,,accesorio,0,0,160
+389,JUGUETE CHORIZO SONRIENTE 20 CM,PER-ROS,,,,accesorio,0,0,115
+496,kit sanit.c.pala y bandeja,PER-ROS,,,,accesorio,0,0,180
+528,JUGUETE CUCURUCHO CON HUESITOS,PER-ROS,,,,accesorio,0,0,113
+582,PELOTA ENREDADA CHICA CON CASCABEL,PER-ROS,,,,accesorio,0,0,122
+583,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,200
+584,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,95
+585,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,130
+647,JUGUETE SANDALIA CON TACO CHINO 18 CM,PER-ROS,,,,accesorio,0,0,152
+670,"PALA JUNTA KK C/HUELLITAS, RESORTE,MANGO",PER-ROS,,,,accesorio,0,0,825
+838,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,180
+842,BEBEDERO AUTOMATICO,PER-ROS,,,,accesorio,0,0,640
+1136,PILOTO PLASTICO C/CAPUCHA T.00 20CM          O,PER-ROS,,,,accesorio,0,0,270
+1138,PILOTO PLASTICO C/CAPUCHA T.01 25CM          O,PER-ROS,,,,accesorio,0,0,290
+1139,PILOTO PLASTICO C/CAPUCHA T.02 30CM          O,PER-ROS,,,,accesorio,0,0,350
+1140,PILOTO PLASTICO C/CAPUCHA T.03 35CM          O,PER-ROS,,,,accesorio,0,0,370
+1141,PILOTO PLASTICO C/CAPUCHA T.04 40CM          O,PER-ROS,,,,accesorio,0,0,390
+1142,PILOTO PLASTICO C/CAPUCHA T.05 45CM          O,PER-ROS,,,,accesorio,0,0,410
+1143,PILOTO PLASTICO C/CAPUCHA T.06 50CM          O,PER-ROS,,,,accesorio,0,0,450
+1144,PILOTO PLASTICO C/CAPUCHA T.07 55CM          O,PER-ROS,,,,accesorio,0,0,470
+1145,PILOTO PLASTICO C/CAPUCHA T.08 60CM          O,PER-ROS,,,,accesorio,0,0,510
+1146,PILOTO PLASTICO C/CAPUCHA T.09 65CM          O,PER-ROS,,,,accesorio,0,0,540
+1147,PILOTO PLASTICO C/CAPUCHA T.10 70CM          O,PER-ROS,,,,accesorio,0,0,590
+1148,PILOTO PLASTICO C/CAPUCHA T.11 75CM          O,PER-ROS,,,,accesorio,0,0,610
+1149,PILOTO PLASTICO C/CAPUCHA T.12 80CM          O,PER-ROS,,,,accesorio,0,0,650
+1190,MOCHILA CON CARRITO P/PERROS,PER-ROS,,,,accesorio,0,0,3900
+1191, CARPET 47 x 34,PER-ROS,,,,accesorio,0,0,1100
+1223,MOISES LINEA PASION CHICO,PER-ROS,,,,accesorio,0,0,1650
+1224,MOISES LINEA PASION MEDIANO,PER-ROS,,,,accesorio,0,0,1750
+1988,COLCHITA PARA PERROS 70 X 55,PER-ROS,,,,accesorio,0,0,260
+2403,MOISES CUADRADO CON CORDERITO N°1,PER-ROS,,,,accesorio,0,0,1400
+2404,MOISES CUADRADO CON CORDERITO N° 2,PER-ROS,,,,accesorio,0,0,1500
+2405,MOISES CUADRADO CON CORDERITO N° 3,PER-ROS,,,,accesorio,0,0,1600
+2406,MOISES CUADRADO CON CORDERITO N°4,PER-ROS,,,,accesorio,0,0,1700
+2419,FASHION JEAN TALLE 01 (25),PER-ROS,,,,accesorio,0,0,672
+2420,FASHION JEAN TALLE 02 (30),PER-ROS,,,,accesorio,0,0,601
+2421,FASHION JEAN TALLE 03 (35),PER-ROS,,,,accesorio,0,0,745
+2422,FASHION JEAN TALLE 04 (40),PER-ROS,,,,accesorio,0,0,625
+2423,FASHION JEAN TALLE 05 (45),PER-ROS,,,,accesorio,0,0,772
+2424,FASHION JEAN TALLE 06 (50),PER-ROS,,,,accesorio,0,0,660
+2538,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,80
+2872,LITERA BORDE FILTRO,PER-ROS,,,,accesorio,0,0,1200
+2876,BOLSO DORY N° 2,PER-ROS,,,,accesorio,0,0,1400
+3012,collar c pañuelo n2,PER-ROS,,,,accesorio,0,0,190
+3013,collar c pañuelo n3,PER-ROS,,,,accesorio,0,0,210
+3266,TAPADO PREETY BABY TALLE S,PER-ROS,,,,accesorio,0,0,766
+3267,TAPADO PREETY BABY TALLE M,PER-ROS,,,,accesorio,0,0,680
+3271,TAPADO PREETY BABY TALLE L,PER-ROS,,,,accesorio,0,0,860
+3272,TAPADO PREETY BABY TALLE XL,PER-ROS,,,,accesorio,0,0,749
+3274A,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,220
+3274,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,180
+3408,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,160
+3409,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,100
+3411,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,130
+3413,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,120
+3480,COMEDERO AUT,PER-ROS,,,,accesorio,0,0,1050
+4300,"CONJUNTO 315 COLLAR 35x1,50/CORREA 110 x 1,50",PER-ROS,,,,accesorio,0,0,180
+4300A,poliest. Collar y correa n01,PER-ROS,,,,accesorio,0,0,180
+4301,CONJ.POLIESTER,PER-ROS,,,,accesorio,0,0,240
+4301A,CONJUNTO 320 COLLAR 45x2/CORREA 120x2 cm,PER-ROS,,,,accesorio,0,0,260
+4302,CONJUNTO 322 COLLAR 60x3CM/CORREA 120x3 CM,PER-ROS,,,,accesorio,0,0,295
+4302A,poliest. Collar y correa n3,PER-ROS,,,,accesorio,0,0,270
+4303,CONJUNTO PRETAL Y CORREA N?1 POLIESTER,PER-ROS,,,,accesorio,0,0,220
+4304,CONJUNTO PRETAL Y CORREA N? 2 POLIESTER,PER-ROS,,,,accesorio,0,0,350
+4305,CONJUNTO PRETAL Y CORREA N? 3 POLIESTER,PER-ROS,,,,accesorio,0,0,418
+4317,collar y correa dib n3,PER-ROS,,,,accesorio,0,0,160
+4317A,CONJ. COLLAR Y CORREA CON DIBUJITOS N? 1,PER-ROS,,,,accesorio,0,0,140
+4318,collar y correa dib n3,PER-ROS,,,,accesorio,0,0,140
+4318A,CONJ. COLLAR Y CORREA CON DIBUJITOS N? 2,PER-ROS,,,,accesorio,0,0,190
+4319,CONJ. COLLAR Y CORREA CON DIBUJITOS N? 3,PER-ROS,,,,accesorio,0,0,200
+4345,MOISES DE JEANS CON APLICACIONES EXTRA GRANDE,PER-ROS,,,,accesorio,0,0,1600
+4346,MOISES DE JEANS CON APLICACIONES SUPER GRANDE,PER-ROS,,,,accesorio,0,0,1600
+4414,MOISES CARA BULLDOG FRANCES CH. 40X50 CM,PER-ROS,,,,accesorio,0,0,1500
+4427,MOISES CARA PERRO GRIS CH. 40X50 CM,PER-ROS,,,,accesorio,0,0,1500
+4429,MOISES CARA PERRO AMARILLO CH. 40X50 CM,PER-ROS,,,,accesorio,0,0,1500
+4435,EXTENSIBLE ESCOSESA,PER-ROS,,,,accesorio,0,0,950
+4486,BUZO REGIONAL TALLE 01 (25) C/CORDERITO,PER-ROS,,,,accesorio,0,0,649
+4487,BUZO REGIONAL TALLE 02 (30) C/CORDERITO,PER-ROS,,,,accesorio,0,0,588
+4488,BUZO REGIONAL TALLE 03 (35) C/CORDERITO,PER-ROS,,,,accesorio,0,0,732
+4489,BUZO REGIONAL TALLE 04 (40) C/CORDERITO,PER-ROS,,,,accesorio,0,0,614
+4490,BUZO REGIONAL TALLE 05 (45) C/CORDERITO,PER-ROS,,,,accesorio,0,0,819
+4491,BUZO REGIONAL TALLE 06 (50) C/CORDERITO,PER-ROS,,,,accesorio,0,0,697
+4492,BUZO REGIONAL TALLE 07 (55) C/CORDERITO,PER-ROS,,,,accesorio,0,0,898
+4493,BUZO REGIONAL TALLE 08 (60) C/CORDERITO,PER-ROS,,,,accesorio,0,0,792
+4494,BUZO REGIONAL TALLE 09 (65) C/CORDERITO,PER-ROS,,,,accesorio,0,0,1027
+4495,BUZO REGIONAL TALLE 10 (70) C/CORDERITO,PER-ROS,,,,accesorio,0,0,875
+4496,BUZO REGIONAL TALLE 11 (75) C/CORDERITO,PER-ROS,,,,accesorio,0,0,1108
+4829,PELOTA CON PERROS Y HUESOS GRANDE,PER-ROS,,,,accesorio,0,0,94
+6018,come-lento,PER-ROS,,,,accesorio,0,0,180
+7037,KIT N° 23 HUESOS DE ALGODON,PER-ROS,,,,accesorio,0,0,3604
+7056,KIT N° 4 MOISES PELUCHE PATITAS,PER-ROS,,,,accesorio,0,0,4965
+8014,1,PER-ROS,,,,accesorio,0,0,620
+8016,2,PER-ROS,,,,accesorio,0,0,670
+8017,3,PER-ROS,,,,accesorio,0,0,710
+8018,4,PER-ROS,,,,accesorio,0,0,740
+8019,5,PER-ROS,,,,accesorio,0,0,770
+8020,6,PER-ROS,,,,accesorio,0,0,820
+8021,7,PER-ROS,,,,accesorio,0,0,900
+8022,8,PER-ROS,,,,accesorio,0,0,950
+8023,9,PER-ROS,,,,accesorio,0,0,1050
+8024,10,PER-ROS,,,,accesorio,0,0,1150
+8025,11,PER-ROS,,,,accesorio,0,0,1200
+8026,12,PER-ROS,,,,accesorio,0,0,1250
+4077,"pelotas con soga, sisal, ø 4,5 cm",trixie,,,,accesorio,0,0,90
+1956,"2 Botas protec. neopreno,perros Walker Care, S, negro   ",trixie,,,,accesorio,0,0,450
+3269,"Cuerda juego c/bola, ø 7 cm,50 cm, colores sutidos    ",trixie,,,,accesorio,0,0,170
+3289,"Denta Fun pelota béisbol, sabor menta, caucho, ø 7 cm    ",trixie,,,,accesorio,0,0,250
+3290,"Denta Fun pelota Rugby, sabor menta, caucho, 11 cm          ",trixie,,,,accesorio,0,0,350
+3305,"Pelota con cuerda, caucho natural, ø 6 cm,30 cm, colores surtidos. ",trixie,,,,accesorio,0,0,210
+3306,"Jumper con cuerda, caucho natural, 8 cm/30 cm, colores surtidos.  ",trixie,,,,accesorio,0,0,210
+3316,"Juguete presa de caucho natural, colores surtidos, 7 cm.              ",trixie,,,,accesorio,0,0,250
+3335,"Pesa c/ casacabel, caucho nat., 12 cm, colores surtidos.            ",trixie,,,,accesorio,0,0,203
+3359,"Pesa fútbol, vinilo, con sonido, 14 cm",trixie,,,,accesorio,0,0,120
+t3413,"Erizo, vinilo, 7 cm, color surtido, c/ sonido, colores surtidos.              ",trixie,,,,accesorio,0,0,100
+3435,"Pelota fútbol, vinilo, con sonido, ø 6 cm.                                           ",trixie,,,,accesorio,0,0,110
+3479,"Pelota tenis con cuerda, ø 6.5 cm,50 cm.                                                   ",trixie,,,,accesorio,0,0,140
+3527,"Pelota de deporte, motivos y colores surtidos, latex, ø 7 cm",trixie,,,,accesorio,0,0,230
+4074,"Ratón de sisal, 10 cm",trixie,,,,accesorio,0,0,110
+4075,"Pelota de sisal, ø 6 cm",trixie,,,,accesorio,0,0,110
+4132,"Serie de 3 pelotas, con cascabel, ø 3.5-4 cm.                      ",trixie,,,,accesorio,0,0,110
+4135,"Círculo loco con ratón de peluche, 24 X 29 cm",trixie,,,,accesorio,0,0,451
+4325,"Alfombrilla Rascadora c/peluche, 55 × 35 cm, marrón",trixie,,,,accesorio,0,0,823
+4505,"Cats Cheese c/varita y 3 pelotas, 36 × 8 × 26/26 cm",trixie,,,,accesorio,0,0,420
+22766,"Placa Identificativa, cucha perro, 30 × 25 mm",trixie,,,,accesorio,0,0,185
+24658,"Comedero de cerámica, gato, 0,35l, Ø13 cm, colores surtidos",trixie,,,,accesorio,0,0,280
+24659,"Comedero de cerámica, gato, Street Cat,  0,3l, Ø12 cm, colores surtidos",trixie,,,,accesorio,0,0,285
+24761,"Dispenser de agua y comida, 0,6 l, colores surtidos",trixie,,,,accesorio,0,0,240
+24833,"Set Comederos Acero Inox, 2x1,8 l, ø20 cm",trixie,,,,accesorio,0,0,680
+25242,"Comedero de Acero Inox. Recub. en Plástico con Antideslizante. 0,4 l, ø14 cm. Colores surtidos",trixie,,,,accesorio,0,0,306
+25243,"Comedero de Acero Inox. Recub. en Plástico con Antideslizante. 0,75 l, ø17 cm. Colores surtidos",trixie,,,,accesorio,0,0,483
+25249,"Comedero de Acero Inox ""Come despacio"" con Antideslizante. 1,4l, ø21cm. Colores surtidos",trixie,,,,accesorio,0,0,860
+25270,"Comedero de acero inoxidable recubierto en plástico para gato, 0,25l, ø12 cm , colores surtidos",trixie,,,,accesorio,0,0,290
+28952,"Bolso Kilian, de poliéster, 31 X 32 X 48, hasta 6 kg. Cama de viaje y bolso en uno. Con correas ajustables al hombro y correa corta integrada.",trixie,,,,accesorio,0,0,3200
+28953,"Bolso Massimo, de poliéster, 25 X 28 X 39, hasta 5 kg, con posibilidad de ampliar al doble desplegando el bolsillo lateral. Con bolsillo, correas ajustables al hombro, bandas tubulares reflectantes y correa corta integrada. Color negro/gris.",trixie,,,,accesorio,0,0,3096
+28968,"Bolso Alina, de poliéster, 22 X 23 X 35, hasta 5 Kg. Con bolsillo de red, correas ajustables al hombro y correa corta integrada.",trixie,,,,accesorio,0,0,2200
+32656,"Denta Fun Pesa de cuerda, 20 cm, 220 g, colores surtidos",trixie,,,,accesorio,0,0,260
+32810,"Pelota redonda de cuerda de algodón, 6cm.",trixie,,,,accesorio,0,0,120
+32811,"Pesa de cuerda de algodón, 15cm",trixie,,,,accesorio,0,0,175
+32812,"Palo de cuerda de algodón, 13cm",trixie,,,,accesorio,0,0,120
+32813,"Pelota de cuerda de algodón, con manija, ø 6 cm/23 cm",trixie,,,,accesorio,0,0,205
+33343,"Denta Fun pesa, caucho, 9cm, colores surtidos",trixie,,,,accesorio,0,0,273
+33542,"Hueso, TPR, 12 cm",trixie,,,,accesorio,0,0,420
+33651,"Pelota erizo, caucho termoplástico, 8 cm, colores surtidos",trixie,,,,accesorio,0,0,180
+33675,"Pelota Snack caucho termoplástico (TPR),  ø 8cm, colores surtidos.",trixie,,,,accesorio,0,0,232
+33680,"Denta Fun Pelota caucho termoplástico (TPR), sabor menta, ø 6cm",trixie,,,,accesorio,0,0,340
+34787,"Hueso Tenis, 17cm",trixie,,,,accesorio,0,0,540
+34848,"Hueso que cruje, caucho natural, colores surtidos, 11cm.",trixie,,,,accesorio,0,0,0
+34930,"Dog activity Pesa Snack, TPR, 12 cm, colores surtidos",trixie,,,,accesorio,0,0,150
+35185,"Cerdo con flores, sonido original, látex, 20 cm",trixie,,,,accesorio,0,0,590
+35190,"Cerdo con pelo, látex, 10 cm, colores surtidos.                                        ",trixie,,,,accesorio,0,0,180
+35232,"Rata/ratón, látex, 22 cm, motivos surtidos",trixie,,,,accesorio,0,0,314
+35492,"Pato, látex, sonido original, 30 cm",trixie,,,,accesorio,0,0,650
+35497,"Jabalí, látex, sonido original, 18 cm",trixie,,,,accesorio,0,0,530
+37377,"Cama Tammy, Ø 50 cm, azul/beige",trixie,,,,accesorio,0,0,1150
+37378,"Cama Tammy, Ø 70 cm, azul/beige",trixie,,,,accesorio,0,0,1550
+37620,"Almohadón Jimmy, 60 X 40 cm",trixie,,,,accesorio,0,0,1300
+37621,"Almohadón Jimmy, 80 X 55 cm",trixie,,,,accesorio,0,0,2100
+37685,"Cama Lingo, 50x40cm, blanco/beige",trixie,,,,accesorio,0,0,1400
+37686,"Cama Lingo, 60x55cm, blanco/beige",trixie,,,,accesorio,0,0,1560
+40316,"Litera clásica con borde, 37 X 15 X 47 cm, azul petróleo/blanco",trixie,,,,accesorio,0,0,480
+41345,"Torre para gatos ""Catch the Balls"", ø 25 cm/13 cm",trixie,,,,accesorio,0,0,520
+48000,"Tabla Cartón Rascadora ""Wild Cat"",41×7×24 cm, Naranja",trixie,,,,accesorio,0,0,503
+48004,"Tambor rascador con juguetes, ø 33 cm, azul",trixie,,,,accesorio,0,0,745
+200002,"Correa Premium, doble, XS: 1.20 m,10 mm, azul    ",trixie,,,,accesorio,0,0,368
+200003,"Correa Premium, doble, XS: 1.20 m,10 mm, rojo     ",trixie,,,,accesorio,0,0,368
+200011,"Correa Premium, doble, XS: 1.20 m,10 mm, fucsia  ",trixie,,,,accesorio,0,0,360
+200012,"Correa Premium, doble, XS: 1.20 m,10 mm, océano",trixie,,,,accesorio,0,0,360
+200103,"Correa Premium, doble, XS-S: 1.20 m,15 mm, rojo   ",trixie,,,,accesorio,0,0,450
+200202,"Correa Premium, doble, M-L: 1.00 m,20 mm, azul ",trixie,,,,accesorio,0,0,580
+200203,"Correa Premium, doble, M-L: 1.00 m,20 mm, rojo    ",trixie,,,,accesorio,0,0,580
+200211,"Correa Premium, doble, M-L: 1.20 m,20 mm, fucsia  ",trixie,,,,accesorio,0,0,650
+200217,"Correa Premium, doble,M-L: 1.20 m,20 mm, manzana",trixie,,,,accesorio,0,0,580
+200301,"Correa Premium, doble, L-XL: 1.00 m,25 mm, negro  ",trixie,,,,accesorio,0,0,680
+200302,"Correa Premium, doble, L-XL: 1.00 m,25 mm, azul",trixie,,,,accesorio,0,0,680
+200303,"Correa Premium, doble, L-XL: 1.00 m,25 mm, rojo   ",trixie,,,,accesorio,0,0,690
+200311,"Correa Premium, doble,L-XL: 1.00 m, 25 mm, fucsia  ",trixie,,,,accesorio,0,0,690
+200312,"Correa Premium, doble, L-XL: 1.00 m,25 mm, océano",trixie,,,,accesorio,0,0,680
+200317,"Correa Premium, doble,L-XL: 1.00 m,25 mm, manzana",trixie,,,,accesorio,0,0,690
+201401,"Collar Premium, XS-S, 22-35 cm,10 mm, negro       ",trixie,,,,accesorio,0,0,120
+201501,"Collar Premium, S-M, 30-45 cm,15 mm, negro        ",trixie,,,,accesorio,0,0,170
+201503,"Collar Premium, S-M, 30-45 cm,15 mm, rojo         ",trixie,,,,accesorio,0,0,170
+201601,"Collar Premium, M-L, 35-55 cm,20 mm, negro        ",trixie,,,,accesorio,0,0,205
+201602,"Collar Premium, M-L, 35-55 cm,20 mm, azul",trixie,,,,accesorio,0,0,205
+201603,"Collar Premium, M-L, 35-55 cm,20 mm, rojo         ",trixie,,,,accesorio,0,0,205
+201701,"Collar Premium, L-XL, 40-65 cm,25 mm, negro       ",trixie,,,,accesorio,0,0,305
+201702,"Collar Premium, L-XL, 40-65 cm,25 mm, azul",trixie,,,,accesorio,0,0,305
+201703,"Collar Premium, L-XL, 40-65 cm,25 mm, rojo        ",trixie,,,,accesorio,0,0,305
+203602,"Arnés Premium acolchado, XS-S: 30-40 cm,15 mm, azul",trixie,,,,accesorio,0,0,550
+203603,"Arnés Premium acolchado, XS-S: 30-40 cm,15 mm, rojo  ",trixie,,,,accesorio,0,0,550
+203611,"Arnés Premium acolchado, XS-S: 30-40 cm,15 mm, FUCSIA ",trixie,,,,accesorio,0,0,510
+203612,"Arnés Premium acolchado, XS-S: 30-40 cm,15 mm, océano ",trixie,,,,accesorio,0,0,510
+203702,"Arnés Premium acolchado, S: 35–50 cm/20 mm, azul",trixie,,,,accesorio,0,0,600
+203703,"Arnés Premium acolchado, S: 35–50 cm/20 mm, rojo",trixie,,,,accesorio,0,0,650
+203711,"Arnés Premium acolchado, S: 35-50 cm,20 mm, fucsia ",trixie,,,,accesorio,0,0,650
+203712,"Arnés Premium acolchado, S: 35-50 cm,20 mm,OCEANO",trixie,,,,accesorio,0,0,650
+203717,"Arnés Premium acolchado, S: 35-50 cm,20 mm, manzana ",trixie,,,,accesorio,0,0,650
+203802,"Arnés Premium acolchado, S-M: 40-60 cm,20 mm, azul",trixie,,,,accesorio,0,0,710
+203811,"Arnés Premium acolchado, S-M: 40-60 cm,20 mm, fucsia",trixie,,,,accesorio,0,0,710
+203812,"Arnés Premium acolchado, S-M: 40-60 cm,20 mm, océano",trixie,,,,accesorio,0,0,710
+203902,"Arnés Premium acolchado, M: 45–70 cm/25 mm, azul",trixie,,,,accesorio,0,0,845
+203903,"Arnés Premium acolchado, M: 45-70 cm,25 mm, rojo     ",trixie,,,,accesorio,0,0,845
+203911,"Arnés Premium acolchado, M: 45-70 cm,25 mm, fucsia ",trixie,,,,accesorio,0,0,845
+203912,"Arnés Premium acolchado, M: 45-70 cm,25 mm, océano ",trixie,,,,accesorio,0,0,845
+203917,"Arnés Premium acolchado, M: 45-70 cm,25 mm, manzana ",trixie,,,,accesorio,0,0,845
+204002,"Arnés Premium acolchado, M-L: 50–80 cm/25 mm, azul",trixie,,,,accesorio,0,0,920
+204011,"Arnés Premium acolchado, M-L: 50–80 cm/25 mm, fucsia",trixie,,,,accesorio,0,0,920
+204017,"Arnés Premium acolchado, M-L: 50–80 cm/25 mm, manzana",trixie,,,,accesorio,0,0,920
+204102,"Arnés Premium acolchado, L: 60–90 cm/25 mm, azul",trixie,,,,accesorio,0,0,930
+204103,"Arnés Premium acolchado, L: 60–90 cm/25 mm, rojo",trixie,,,,accesorio,0,0,930
+204112,"Arnés Premium acolchado, L: 60–90 cm/25 mm, océano",trixie,,,,accesorio,0,0,930
+204117,"Arnés Premium acolchado, L: 60–90 cm/25 mm, manzana",trixie,,,,accesorio,0,0,930
+204202,"Arnés Premium acolchado, L-XL: 70-100 cm,25 mm, azul",trixie,,,,accesorio,0,0,980
+204212,"Arnés Premium acolchado, L-XL: 70-100 cm,25 mm, océano",trixie,,,,accesorio,0,0,980
+204217,"Arnés Premium acolchado, L-XL: 70-100 cm,25 mm, manzana",trixie,,,,accesorio,0,0,980
+205102,"Arnés Premium Noruego acolchado en el pecho, S-M: 30-50 cm,25 mm, azul",trixie,,,,accesorio,0,0,510
+205103,"Arnés Premium Noruego acolchado en el pecho, S-M: 30-50 cm,25 mm, rojo",trixie,,,,accesorio,0,0,510
+205202,"Arnés Premium Noruego acolchado en el pecho, M-L: 53-66 cm,40 mm, azul",trixie,,,,accesorio,0,0,650
+205203,"Arnés Premium Noruego acolchado en el pecho, M-L: 53-66 cm,40 mm, rojo",trixie,,,,accesorio,0,0,650
+205302,"Arnés Premium Noruego acolchado en el pecho, L: 60-76 cm,40 mm, azul",trixie,,,,accesorio,0,0,760
+205303,"Arnés Premium Noruego acolchado en el pecho, L: 60-76 cm,40 mm, rojo",trixie,,,,accesorio,0,0,760
+205402,"Arnés Premium Noruego acolchado en el pecho, L-XL: 68-88, 50 mm, azul",trixie,,,,accesorio,0,0,910
+205403,"Arnés Premium Noruego acolchado en el pecho, L-XL: 68-88, 50 mm, rojo",trixie,,,,accesorio,0,0,910
+20001/ 200001,"Correa Premium, doble, XS: 1.20 m,10 mm, negro    ",trixie,,,,accesorio,0,0,360
+20003/ 200003,"Correa Premium, doble, XS: 1.20 m,10 mm, rojo     ",trixie,,,,accesorio,0,0,360
+20011/ 200101,"Correa Premium, doble, XS-S: 1.20 m,15 mm, negro  ",trixie,,,,accesorio,0,0,450
+20012/ 200102,"Correa Premium, doble, XS-S: 1.20 m,15 mm, azul",trixie,,,,accesorio,0,0,450
+1006/00,"CORREA  (1,20 m)          lo mismo en esos colores",wawpet,,,,accesorio,0,0,210
+1006/40,COLLAR TEXANO 20mm                 ,wawpet,,,,accesorio,0,0,150
+1006/45,COLLAR TEXANO 20mm             ,wawpet,,,,accesorio,0,0,150
+1013/35,COLLAR FLOR NIQUEL C/ STRASS 20mm                  colores simil cuero cosido: negro-rosa-rojo-francia-plata-oro,wawpet,,,,accesorio,0,0,140
+1013/45,COLLAR FLOR NIQUEL C/ STRASS 20mm                ,wawpet,,,,accesorio,0,0,140
+1014/30,COLLAR STRASS C/ DIJE COLGANTE REDONDO 20mm                          colores charol: negro-fucsia-rojo-francia,wawpet,,,,accesorio,0,0,180
+1014/35,COLLAR STRASS C/ DIJE COLGANTE REDONDO 20mm                          colores simil cuero cosido: negro-rosa-rojo-francia-plata-oro,wawpet,,,,accesorio,0,0,180
+1014/40,COLLAR STRASS C/ DIJE COLGANTE REDONDO 20mm                          colores print: print gris-print leopardo-print francia-print rojo,wawpet,,,,accesorio,0,0,180
+1014/45,COLLAR STRASS C/ DIJE COLGANTE REDONDO 20mm                ,wawpet,,,,accesorio,0,0,180
+1015/30,COLLAR PASADOR STRASS  20mm                          colores charol: negro-fucsia-rojo-francia,wawpet,,,,accesorio,0,0,190
+1015/35,COLLAR PASADOR STRASS  20mm                             colores simil cuero cosido: negro-rosa-rojo-francia-plata-oro,wawpet,,,,accesorio,0,0,190
+1015/40,COLLAR PASADOR STRASS  20mm                             colores print: print gris-print leopardo-print francia-print rojo,wawpet,,,,accesorio,0,0,190
+1015/45,COLLAR PASADOR STRASS  20mm                             colores print: print gris-print leopardo-print francia-print rojo,wawpet,,,,accesorio,0,0,190
+1017/30,COLLAR PASADOR CORAZON STRASS  20mm                          colores charol: negro-fucsia-rojo-francia,wawpet,,,,accesorio,0,0,190
+1017/35,COLLAR PASADOR CORAZON STRASS  20mm                                 colores simil cuero cosido: negro-rosa-rojo-francia-plata-oro,wawpet,,,,accesorio,0,0,190
+1017/40,COLLAR PASADOR CORAZON STRASS  20mm                                  colores print: print gris-print leopardo-print francia-print rojo,wawpet,,,,accesorio,0,0,190
+1070/00,"CORREA NYLON LISO 20mm (1,20 m)              lo mismo en esos colores",wawpet,,,,accesorio,0,0,120
+1070/35,COLLAR NYLON LISO C/PASADOR CUERINA COLOR Y DIJE 20mm                     ,wawpet,,,,accesorio,0,0,70
+1070/45,COLLAR NYLON LISO C/PASADOR CUERINA COLOR Y DIJE 20mm                     ,wawpet,,,,accesorio,0,0,70
+1071/00,"CORREA ESTAMPADO 20mm (1,20 m)              lo mismo en esos colores",wawpet,,,,accesorio,0,0,180
+1071/35,COLLAR ESTAMPADO  20mm                    ,wawpet,,,,accesorio,0,0,90
+1071/40,COLLAR ESTAMPADO  20mm                    ,wawpet,,,,accesorio,0,0,90
+1071/45,COLLAR ESTAMPADO  20mm                    ,wawpet,,,,accesorio,0,0,90
+1103/40-45, COLLAR NYLON TEXANO 30mm Talles 40- 45         colores: rojo-negro,wawpet,,,,accesorio,0,0,170
+1103/50-55, COLLAR NYLON TEXANO 30mm   Talles 50-55,wawpet,,,,accesorio,0,0,170
+1103/60-65, COLLAR NYLON TEXANO 30mm   Talles 60-65,wawpet,,,,accesorio,0,0,170
+1103/C0,"CORREA NYLON LISO 30mm (1,20 m)                ( mosqueton reforzado )      lo mismo en esos colores",wawpet,,,,accesorio,0,0,160
+1107/50-55,COLLAR NYLON PUAS Y TACHAS STRASS      Talles.50- 55,wawpet,,,,accesorio,0,0,160
+1107/60-65,COLLAR NYLON PUAS Y TACHAS STRASS      Talles.60-65,wawpet,,,,accesorio,0,0,180
+1113/40-45, COLLAR HIPPIE CHIC 30mm  Talles 40- 45                                                  color pasador: rojo-francia-violeta-fluo fucsia-fluo verde-fluo naranja-fluo amarillo,wawpet,,,,accesorio,0,0,170
+1113/50-55, COLLAR HIPPIE CHIC 30mm  Talles 50-55           ,wawpet,,,,accesorio,0,0,180
+1113/60-65, COLLAR HIPPIE CHIC 30mm   Talles 60-65,wawpet,,,,accesorio,0,0,190
+1113/C0,"CORREA  (1,20 m)          lo mismo en esos colores",wawpet,,,,accesorio,0,0,220
+2022/00,"CORREA  (1,20 m)",wawpet,,,,accesorio,0,0,160
+2022/T.1,PRETAL KITTY                  colores: rosa c/kitty fucsia   o    fucsia c/kitty rosa,wawpet,,,,accesorio,0,0,240
+2022/T.2,PRETAL KITTY ,wawpet,,,,accesorio,0,0,250
+2022/T.3,PRETAL KITTY ,wawpet,,,,accesorio,0,0,260
+2022/T.4,PRETAL KITTY ,wawpet,,,,accesorio,0,0,270
+2201/C0,"CORREA NYLON FASHION 15mm (1,20 m)              lo mismo en esos colores",wawpet,,,,accesorio,0,0,160
+2201/T.40,PRETAL NYLON FASHION 15mm                           abarca para abrochar en ojal a partir de los 29 cm hasta 37 cm        ( contorno total pecho 40 cm ),wawpet,,,,accesorio,0,0,150
+2201/T.50,PRETAL NYLON FASHION 15mm                           abarca para abrochar en ojal a partir de los 38 cm hasta 46 cm        ( contorno total pecho 50 cm ),wawpet,,,,accesorio,0,0,150
+2202/T.40,CONJ. PRETAL ESTAMPADO 15mm      74 + CORREA        abarca para abrochar en ojal a partir de los 29 cm hasta 37 cm  ( contorno total pecho 40 cm ),wawpet,,,,accesorio,0,0,310
+2202/T.45,CONJ. PRETAL ESTAMPADO 15mm      76 + CORREA       abarca para abrochar en ojal a partir de los 34 cm hasta 42 cm  ( contorno total pecho 45 cm ),wawpet,,,,accesorio,0,0,310
+2202/T.50,CONJ. PRETAL ESTAMPADO 15mm       78 + CORREA        abarca para abrochar en ojal a partir de los 38 cm hasta 46 cm  ( contorno total pecho 50 cm ),wawpet,,,,accesorio,0,0,310
+2202/T.55,CONJ. PRETAL ESTAMPADO 15mm       80 + CORREA      abarca para abrochar en ojal a partir de los 44 cm hasta 52 cm   ( contorno total pecho 55 cm ),wawpet,,,,accesorio,0,0,310
+2204/C0,"CORREA NYLON FASHION 15mm (1,20 m)                   lo mismo en esos colores",wawpet,,,,accesorio,0,0,150
+2204/T.40,PRETAL ARNES REGULABLE FASHION  15 mm                                                   cont. pecho   min 28 - max 40,wawpet,,,,accesorio,0,0,200
+2204/T.50,PRETAL ARNES REGULABLE FASHION  15 mm                                                   cont. pecho   min 33 - max 50,wawpet,,,,accesorio,0,0,200
+2304/C0,"CORREA NYLON FASHION 20mm (1,20 m)                      lo mismo en esos colores",wawpet,,,,accesorio,0,0,160
+2304/T.60,PRETAL ARNES REGULABLE FASHION 20 mm                                                    cont. pecho   min 40 - max 60,wawpet,,,,accesorio,0,0,380
+2305/T.60,CONJ. PRETAL ARNES REGULABLE ESTAMPADO 20 mm           130 + CORREA                                        cont. pecho   min 40 - max 60,wawpet,,,,accesorio,0,0,380
+2305/T.65,CONJ. PRETAL ESTAMPADO 20mm       ,wawpet,,,,accesorio,0,0,410
+2600/T.30,PRETAL EN TELA                                  ,wawpet,,,,accesorio,0,0,290
+2600/T.35,PRETAL EN TELA                                      ,wawpet,,,,accesorio,0,0,300
+2600/T.40,PRETAL EN TELA                                  ,wawpet,,,,accesorio,0,0,320
+2600/T.50,PRETAL EN TELA                                       ,wawpet,,,,accesorio,0,0,340
+2600/T.60,PRETAL EN TELA                                      ,wawpet,,,,accesorio,0,0,360
+652/25,COLLAR SEMI- ELASTIZADO GAMUZADO C/ 2 FILAS TACHITAS                             colores: rojo-francia-negro-coral-fucsia-rosa-violeta      ,wawpet,,,,accesorio,0,0,80
+656/25,COLLAR SEMI- ELASTIZADO CON TACHAS CUADRADAS NEGRO  colores: negro        ,wawpet,,,,accesorio,0,0,80
+660/25,COLLAR SEMI- ELASTIZADO GAMUZADO CUADRADOS STRASS               colores: rojo-francia-negro-coral-fucsia-rosa-violeta    NUEVO!!,wawpet,,,,accesorio,0,0,100
+661/25,COLLAR SEMI- ELASTIZADO GAMUZADO MOSTACILLA MULTICOLOR               colores:  francia-rosa            NUEVO!!,wawpet,,,,accesorio,0,0,90
+666/25,COLLAR ELASTIZADO PRINT VS COLORES           colores: fucsia-violeta-beige-naranja-rojo    ,wawpet,,,,accesorio,0,0,60
+668/25,COLLAR SEMI- ELASTIZADO GAMUZADO METAL COLOR     colores: rojo-francia-negro-coral-fucsia-rosa-violeta   ,wawpet,,,,accesorio,0,0,80
+670/25,COLLAR SEMI- ELASTIZADO STRASS COLOR  2 FILAS colores: rojo-azul-rosa-fucsia-negro-gris,wawpet,,,,accesorio,0,0,80
+671/25,COLLAR ELASTIZADO C/TACHAS             colores: blanco-amarillo-v.manzana-naranja-fucsia-rojo-negro-violeta,wawpet,,,,accesorio,0,0,60
+674/25,COLLAR ELASTIZADO C/FLOR               colores: rosa-fucsia-lila-v.manzana-negro-amarillo-,wawpet,,,,accesorio,0,0,70
+681/25,COLLAR ELASTIZADO  CON STRASS             colores: negro-celeste-lila-rosa,wawpet,,,,accesorio,0,0,60
+687/25,COLLAR ELASTIZADO PRINT                 colores: print leopardo-print atigrado-prin cebrado,wawpet,,,,accesorio,0,0,70
+694/25,COLLAR ELASTIZADO  BRILLOSO  C/MARIPOSA      colores: oro-plata-lila-gris-francia,wawpet,,,,accesorio,0,0,70
+707/25,COLLAR 3 CORAZONES COLOR CON STRASS                 colores corazon: amarillo fluo- rosa- fucsia- rojo- azul,wawpet,,,,accesorio,0,0,150
+707/30,COLLAR 3 CORAZONES COLOR CON STRASS 8mm          ,wawpet,,,,accesorio,0,0,150
+716/25,COLLAR GUINDAS STRASS   8mm                   colores en charol: negro-rojo-plata,wawpet,,,,accesorio,0,0,150
+716/30,COLLAR GUINDAS STRASS  8mm                    colores print: leop,wawpet,,,,accesorio,0,0,150
+7200/30,BUZO TERMICO ESTAMPADO C/CAPUCHA PELUCHE,wawpet,,,,accesorio,0,0,520
+7200/35,BUZO TERMICO ESTAMPADO C/CAPUCHA PELUCHE,wawpet,,,,accesorio,0,0,540
+7301/35,BUZO CAMUFLADO CON CAPUCHA,wawpet,,,,accesorio,0,0,530
+7301/40,BUZO CAMUFLADO CON CAPUCHA,wawpet,,,,accesorio,0,0,560
+7301/45,BUZO CAMUFLADO CON CAPUCHA,wawpet,,,,accesorio,0,0,580
+7301/50,BUZO CAMUFLADO CON CAPUCHA,wawpet,,,,accesorio,0,0,610
+7301/65,BUZO CAMUFLADO CON CAPUCHA,wawpet,,,,accesorio,0,0,690
+7301/70,BUZO CAMUFLADO CON CAPUCHA,wawpet,,,,accesorio,0,0,750
+7301/75,BUZO CAMUFLADO CON CAPUCHA,wawpet,,,,accesorio,0,0,780
+7302/30,BUZO LOVE CON CAPUCHA Y BORDE PELUCHE,wawpet,,,,accesorio,0,0,500
+7310/30,BUZO CLASICO POLAR ESTAMPADO,wawpet,,,,accesorio,0,0,500
+7310/35,BUZO CLASICO POLAR ESTAMPADO,wawpet,,,,accesorio,0,0,510
+7310/45,BUZO CLASICO POLAR ESTAMPADO,wawpet,,,,accesorio,0,0,540
+7310/55,BUZO CLASICO POLAR ESTAMPADO,wawpet,,,,accesorio,0,0,560
+7310/70,BUZO CLASICO POLAR ESTAMPADO,wawpet,,,,accesorio,0,0,590
+7900/30,CAPA MONTGOMERY EN PIED DE POULE ,wawpet,,,,accesorio,0,0,730
+7900/35,CAPA MONTGOMERY EN PIED DE POULE ,wawpet,,,,accesorio,0,0,740
+7900/40,CAPA MONTGOMERY EN PIED DE POULE ,wawpet,,,,accesorio,0,0,750
+7900/45,CAPA MONTGOMERY EN PIED DE POULE ,wawpet,,,,accesorio,0,0,780
+7900/50,CAPA MONTGOMERY EN PIED DE POULE ,wawpet,,,,accesorio,0,0,830
+7900/55,CAPA MONTGOMERY EN PIED DE POULE ,wawpet,,,,accesorio,0,0,860
+7901/25,CAPA PELUCHE C/BOLSILLO CANGURO PRINT ,wawpet,,,,accesorio,0,0,560
+7901/50,CAPA PELUCHE C/BOLSILLO CANGURO PRINT ,wawpet,,,,accesorio,0,0,650
+7903/30,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,790
+7903/35,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,810
+7903/40,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,830
+7903/45,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,850
+7903/50,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,870
+7903/55,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,880
+7903/60,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,890
+7903/65,CAPA ROMPEVIENTO C/ POLAR,wawpet,,,,accesorio,0,0,920
+7920/25,chaleco de simil piel print c/capucha,wawpet,,,,accesorio,0,0,620
+7920/45,chaleco de simil piel print c/capucha,wawpet,,,,accesorio,0,0,640
+7920/50,CHALECO DE SIMIL PIEL PRINT C/CAPUCHA,wawpet,,,,accesorio,0,0,660
+7920/55,CHALECO DE SIMIL PIEL PRINT C/CAPUCHA,wawpet,,,,accesorio,0,0,680
+7928/30,PILOTO CUADRILLE C/CAPUCHA,wawpet,,,,accesorio,0,0,580
+7928/35,PILOTO CUADRILLE C/CAPUCHA,wawpet,,,,accesorio,0,0,610
+7928/55,PILOTO CUADRILLE C/CAPUCHA,wawpet,,,,accesorio,0,0,690
+7929/30,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,700
+7929/35,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,720
+7929/40,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,740
+7929/45,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,780
+7929/50,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,810
+7929/55,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,830
+7929/60,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,840
+7929/65,CHALECO ROMPEVIENTO C/POLAR Y CAPUCHA,wawpet,,,,accesorio,0,0,860
+915/00,"CORREA  (1,20 m)          lo mismo en esos colores",wawpet,,,,accesorio,0,0,190
+915/25,COLLAR STRASS C/DIJE COLGANTE CORAZON 15mm                     colores en charol: negro-rojo-violeta-azul francia-fucsia,wawpet,,,,accesorio,0,0,170
+915/30,COLLAR STRASS C/DIJE COLGANTE CORAZON 15mm                       colores en simil cuero cosido: negro-oro-rojo-plata-fluo fucsia-rosa-francia,wawpet,,,,accesorio,0,0,180
+915/35,COLLAR STRASS C/DIJE COLGANTE CORAZON 15mm                        colores print:  leopardo- vivora,wawpet,,,,accesorio,0,0,190
+AT 006,LLAVERO HUESO STRASS P/FOTO,wawpet,,,,accesorio,0,0,110
+Emc,Erizo móvil a cuerda,blondi,,,,accesorio,0,0,240
+ACP,Alicate Chico,blondi,,,,accesorio,0,0,290
+AGLD,Aro limpiadientes 8 cm diametro,blondi,,,,accesorio,0,0,90
+AGP,Alicate Grande,blondi,,,,accesorio,0,0,540
+AL,Arnés con NEOPRENE,blondi,,,,accesorio,0,0,1720
+AMP,Alicate Mediano,blondi,,,,accesorio,0,0,320
+BAMP,Arnés con NEOPRENE,blondi,,,,accesorio,0,0,1650
+APP,Peluche de Pana,blondi,,,,accesorio,0,0,700
+AS,"ARNES ""s""",blondi,,,,accesorio,0,0,1590
+AT2,ALMOHDON TELA N*2 65X50,blondi,,,,accesorio,0,0,510
+AT3,ALMOHDON TELA N*3 85X65,blondi,,,,accesorio,0,0,680
+AT4,ALMOHDON TELA N*4 90X90,blondi,,,,accesorio,0,0,980
+B25,BUZO POLAR TALLE 25,blondi,,,,accesorio,0,0,240
+B35,BUZO POLAR TALLE 35,blondi,,,,accesorio,0,0,350
+B40,BUZO POLAR TALLE 40,blondi,,,,accesorio,0,0,370
+B45,BUZO POLAR TALLE 45,blondi,,,,accesorio,0,0,420
+B55,BUZO POLAR TALLE 55,blondi,,,,accesorio,0,0,580
+B65,BUZO POLAR TALLE 65,blondi,,,,accesorio,0,0,680
+B75,BUZO POLAR TALLE 75,blondi,,,,accesorio,0,0,790
+B80,BUZO POLAR TALLE 80,blondi,,,,accesorio,0,0,890
+BC1,Bozal Canasta,blondi,,,,accesorio,0,0,140
+BC2,Bozal Canasta,blondi,,,,accesorio,0,0,180
+BC3,Bozal Canasta,blondi,,,,accesorio,0,0,220
+BRP,Base con resorte y Ratita,blondi,,,,accesorio,0,0,370
+BS,BANDEJA SANITARIA,blondi,,,,accesorio,0,0,210
+BSG,BANDEJA SANITARIA GRANDE,blondi,,,,accesorio,0,0,390
+CAD00,Comederos acero  dibujo 15cm,blondi,,,,accesorio,0,0,224.32
+CAD01,Comederos acero dibujo 18cm,blondi,,,,accesorio,0,0,275.2
+CAD03,Comederos acero dibujo 26cm,blondi,,,,accesorio,0,0,444.01
+CAD04,Comederos acero dibujo 30cm,blondi,,,,accesorio,0,0,550.36
+CAD05,Comederos acero dibujo 34cm,blondi,,,,accesorio,0,0,751.58
+CADP,Comedero acero con pie 17cm,blondi,,,,accesorio,0,0,691.45
+CAI25,"Cromados simples 2,5x40",blondi,,,,accesorio,0,0,100
+CAI30,"Cromados simples 3,0x50",blondi,,,,accesorio,0,0,120
+CAI35,"Cromados simples 3,5x60",blondi,,,,accesorio,0,0,150
+CAI40,"Cromados simples 4,0x65",blondi,,,,accesorio,0,0,190
+CAP1,CONJUNTO A.PRINT N*1,blondi,,,,accesorio,0,0,330
+CAP2,CONJUNTO A.PRINT N*2,blondi,,,,accesorio,0,0,380
+CAP3,CONJUNTO A.PRINT N*3,blondi,,,,accesorio,0,0,390
+CAPO,CONJUNTO A.PRINT N*0,blondi,,,,accesorio,0,0,310
+CB0,Brillos,blondi,,,,accesorio,0,0,130
+CB1,Brillos,blondi,,,,accesorio,0,0,160
+CB2,Brillos,blondi,,,,accesorio,0,0,180
+CCHP,Cardina,blondi,,,,accesorio,0,0,340
+CGP,Cardina,blondi,,,,accesorio,0,0,460
+CLGaB,Collar gato con brilos,blondi,,,,accesorio,0,0,90
+CLGE,Collar gato elastico,blondi,,,,accesorio,0,0,120
+CLGR,Collar cachorro regulable,blondi,,,,accesorio,0,0,65
+CMP,Cardina,blondi,,,,accesorio,0,0,420
+CMSE1,Cadenas 2.0cmx120cm,blondi,,,,accesorio,0,0,100
+CMSE2,Cadenas 2.5cmx120cm,blondi,,,,accesorio,0,0,110
+CMSE3,Cadenas 3.0cmx120cm,blondi,,,,accesorio,0,0,140
+CMSE4,Cadenas 3.5cmx120cm,blondi,,,,accesorio,0,0,180
+CNDP,Cepillo doble,blondi,,,,accesorio,0,0,460
+CS0,Strass,blondi,,,,accesorio,0,0,170
+CS1,Strass,blondi,,,,accesorio,0,0,230
+CS2,Strass,blondi,,,,accesorio,0,0,250
+CUG,Cepillo plástico Nº 3,blondi,,,,accesorio,0,0,160
+CUJ,Cepillo plástico Nº 1,blondi,,,,accesorio,0,0,95
+GIRO,Giroscopio,blondi,,,,accesorio,0,0,180
+HGLD,Hueso Limpiadientes,blondi,,,,accesorio,0,0,90
+HGPA,Hueso portalimento,blondi,,,,accesorio,0,0,270
+HJ031-L,Bolso cuerina,blondi,,,,accesorio,0,0,1700
+HJ031-M,Bolso cuerina,blondi,,,,accesorio,0,0,1350
+HJ031-S,Bolso cuerina,blondi,,,,accesorio,0,0,980
+JEG,Chifle Goma Extra Grande,blondi,,,,accesorio,0,0,210
+JGI,Juguete gato Interactivo,blondi,,,,accesorio,0,0,90
+JGR,Chifle Goma Grande,blondi,,,,accesorio,0,0,150
+JGS,Juguete Sisal,blondi,,,,accesorio,0,0,120
+JUCH,Chifle Goma Chico,blondi,,,,accesorio,0,0,90
+JUMED,Chifle Goma Mediano,blondi,,,,accesorio,0,0,90
+KSC,KIT SANITARIO,blondi,,,,accesorio,0,0,320
+L28L,Set arnés y correa L,blondi,,,,accesorio,0,0,930
+L28M,Set arnés y correa M,blondi,,,,accesorio,0,0,895
+L28S,Set arnés y correa S,blondi,,,,accesorio,0,0,850
+MAGX12,MEDALLA GATITO X 12,blondi,,,,accesorio,0,0,75
+MAHCX12,MEDALLA HUESO CH X12,blondi,,,,accesorio,0,0,120
+MAHX12,MEDALLA HUELLA X 12,blondi,,,,accesorio,0,0,130
+MAHX12G,MEDALLA HUESO GR X12,blondi,,,,accesorio,0,0,140
+MBCX12,MEDALLA BIJOU CHICA X 12,blondi,,,,accesorio,0,0,90
+MBGX12,MEDALLA BIJOU GRANDE X 12,blondi,,,,accesorio,0,0,120
+PASA,PALITA SANITARIA,blondi,,,,accesorio,0,0,40
+PCSM,Pelota soga y manija,blondi,,,,accesorio,0,0,260
+PDME,Peine metal doble,blondi,,,,accesorio,0,0,195
+PDPR,Peine Doble,blondi,,,,accesorio,0,0,340
+PESI,Pelota sisal 11cm,blondi,,,,accesorio,0,0,330
+PESM,Pelota sonajero mediana 7cm,blondi,,,,accesorio,0,0,70
+PMG,PELOTA MACIZA GRANDE,blondi,,,,accesorio,0,0,454.42
+pmm,PELOTA MACIZA MEDIANA,blondi,,,,accesorio,0,0,239.52
+PPE,Pato de peluche,blondi,,,,accesorio,0,0,390
+PPSO,Perro peluche con soga ,blondi,,,,accesorio,0,0,430
+PSOFTG,"Pelota goma Grande 7,5CM",blondi,,,,accesorio,0,0,119.89
+PSP,Peine Sacapulgas,blondi,,,,accesorio,0,0,280
+PTM,Mediana 6CM,blondi,,,,accesorio,0,0,130
+RBCRR,"Circulo con rata y resorte 15,5cm",blondi,,,,accesorio,0,0,420
+BRBH,Saco x 3 unid.,blondi,,,,accesorio,0,0,86.59
+RBH,REPUESTO BOLSA HIGIENICA,blondi,,,,accesorio,0,0,80
+RPR,Rastrillo,blondi,,,,accesorio,0,0,430
+SPR,Sacanudos,blondi,,,,accesorio,0,0,350
+VPJ,Varita para gato,blondi,,,,accesorio,0,0,106.55
+d1,COLLAR DE SUELA Nº  16   (37 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,90
+d2,COLLAR DE SUELA Nº  19   (41 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,130
+d3,COLLAR DE SUELA Nº  21   (46 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,150
+d4,COLLAR DE SUELA Nº  25   (49 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,170
+d5,COLLAR DE SUELA Nº  32   (55 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,210
+d6,COLLAR DE SUELA Nº  38   (60 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,250
+d7,COLLAR DE SUELA Nº 45    (70 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,320
+d8,COLLAR CHAPA Y TACHAS Nº  16   (37 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,110
+d9,COLLAR CHAPA Y TACHAS Nº  19   (41 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,140
+d10,COLLAR CHAPA Y TACHAS Nº  21   (46 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,170
+d11,COLLAR CHAPA Y TACHAS Nº  25   (49 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,210
+d12,COLLAR CHAPA Y TACHAS Nº  32   (55 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,280
+d13,COLLAR CHAPA Y TACHAS Nº  38   (60 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,320
+d14,COLLAR CHAPA Y TACHAS Nº 45    (70 CM),diana,,,COLLARES EN SUELA,accesorio,0,0,370
+d15,COLLAR DE SUELA CON TACHAS Y PUAS,diana,,,COLLARES ESPECIALES ,accesorio,0,0,760
+d16,COLLAR DE SUELA CON TACHAS Y PUAS MEDIANO,diana,,,COLLARES ESPECIALES ,accesorio,0,0,760
+d17,COLLAR DE SUELA CON TACHAS Y PUAS CORTO,diana,,,COLLARES ESPECIALES ,accesorio,0,0,618
+d18,COLLAR DE SUELA CON TACHAS,diana,,,COLLARES ESPECIALES ,accesorio,0,0,629
+d19,COLLAR INCAICO LARGO 74 CM,diana,,,COLLARES ESPECIALES ,accesorio,0,0,450
+d20,COLLAR INCAICO MEDIANO 64 CM,diana,,,COLLARES ESPECIALES ,accesorio,0,0,450
+d21,COLLAR EN CINTA NATO 74 CM,diana,,,COLLARES ESPECIALES ,accesorio,0,0,330
+d22,COLLAR EN CINTA NATO 64 CM,diana,,,COLLARES ESPECIALES ,accesorio,0,0,330
+d23,CORREA SUELA Nº 0 (110 CM),diana,,,CORREAS EN SUELA,accesorio,0,0,130
+d24,CORREA SUELA Nº 1 (110 CM),diana,,,CORREAS EN SUELA,accesorio,0,0,150
+d25,CORREA SUELA Nº 2 (110 CM),diana,,,CORREAS EN SUELA,accesorio,0,0,160
+d26,CORREA SUELA Nº 3 (110 CM),diana,,,CORREAS EN SUELA,accesorio,0,0,190
+d27,CORREA SUELA Nº 4 (110 CM),diana,,,CORREAS EN SUELA,accesorio,0,0,220
+d28,ARNES DE TIRO AJUSTABLE EN SUELA,diana,,,ARNESES,accesorio,0,0,640
+d29,PECHERA SMALL EN SUELA,diana,,,ARNESES,accesorio,0,0,680
+d30,PECHERA MEDIUM EN SUELA,diana,,,ARNESES,accesorio,0,0,990
+6240028,GA. Pretal de tela chico,tfs,,,COLLARES EN SUELA,accesorio,0,0,280
+12110003,CC. Cancat paños premiun - 20u 60 x 40cm 103,tfs,,,COLLARES EN SUELA,accesorio,0,0,380
+12110005,CC. Cancat paños premiun - 10u 60 x 60cm 102,tfs,,,COLLARES EN SUELA,accesorio,0,0,300
+12420005,pañopet carpeta chica,tfs,,,COLLARES EN SUELA,accesorio,0,0,1800
+12420006,pañopet carpeta grande,tfs,,,COLLARES EN SUELA,accesorio,0,0,2300
+16380002,MA. Monami dental stick 75g,tfs,,,COLLARES EN SUELA,accesorio,0,0,60
+16380003,MA. Monami dental clean 75g,tfs,,,COLLARES EN SUELA,accesorio,0,0,60
+16580001,TR. Hueso dental plus - xs 7u,tfs,,,COLLARES EN SUELA,accesorio,0,0,80
+18030007,BA. Baupark pelota maciza - 04,tfs,,,COLLARES EN SUELA,accesorio,0,0,180
+18110037,CC. Cancat sweet - monito peluche 9608,tfs,,,COLLARES EN SUELA,accesorio,0,0,390
+18110040,CC. Cancat sweet pato - 9610,tfs,,,COLLARES EN SUELA,accesorio,0,0,340
+18370145,MX. Gigwi rabbit medium pf - 6260,tfs,,,COLLARES EN SUELA,accesorio,0,0,180
+18500028,PI. Pelota snack chica,tfs,,,COLLARES EN SUELA,accesorio,0,0,51
+19110017,CC. Cancat espiral con raton - YT76192,tfs,,,COLLARES EN SUELA,accesorio,0,0,410
+19110031,cancat fun cañita libelula YT76154,tfs,,,COLLARES EN SUELA,accesorio,0,0,120
+19110033,CC. Cancat cañita libelula - 161,tfs,,,COLLARES EN SUELA,accesorio,0,0,140
+19110034,CC. Cancat cañita mariposa - 156,tfs,,,COLLARES EN SUELA,accesorio,0,0,120
+19110035,CC. Cancat cañita esqueleto blanco - YT78035,tfs,,,COLLARES EN SUELA,accesorio,0,0,180
+19110036,CC. Cancat cañita peluche luna - YT76144,tfs,,,COLLARES EN SUELA,accesorio,0,0,140
+19110037,CC. Cancat cañita pez hilo - YT94351,tfs,,,COLLARES EN SUELA,accesorio,0,0,160
+19110038,CC. Cancat cañita pez pluma - YT79907,tfs,,,COLLARES EN SUELA,accesorio,0,0,140
+19110039,CC. Cancat cañita plumas con hilo - YT79955,tfs,,,COLLARES EN SUELA,accesorio,0,0,140
+20110007,CC.CANCAT SILICA NEUTRA 004,tfs,,,COLLARES EN SUELA,accesorio,0,0,300
+20110008,"CC.CANCAT SILICA CITRICO3,81  004",tfs,,,COLLARES EN SUELA,accesorio,0,0,320
+20110009,"CC.CANCAT SILICA LIMON3,81  006",tfs,,,COLLARES EN SUELA,accesorio,0,0,320
+20110010,"CC.CANCAT SILICA ROSAS 3,81  007",tfs,,,COLLARES EN SUELA,accesorio,0,0,320
+20110011,"CC.CANCAT SILICA LAVANDA 3,81  003",tfs,,,COLLARES EN SUELA,accesorio,0,0,320
+20480004,PK. Pinopack rascador - aro,tfs,,,COLLARES EN SUELA,accesorio,0,0,700
+20480005,PK. Pinopack rascador - sin fin,tfs,,,COLLARES EN SUELA,accesorio,0,0,700
+20480006,PK. Pinopack rascador - nube,tfs,,,COLLARES EN SUELA,accesorio,0,0,450
+20480007,PK. Pinopack rascador - gusano,tfs,,,COLLARES EN SUELA,accesorio,0,0,450
+20480008,PK. Pinopack rascador - rampa,tfs,,,COLLARES EN SUELA,accesorio,0,0,400
+20610001,VS. Piedra gato - stonecat 4kg,tfs,,,COLLARES EN SUELA,accesorio,0,0,210
+20640004,ZT. Zootec rascador,tfs,,,COLLARES EN SUELA,accesorio,0,0,240
+20640005,ZT. Zootec rascador rampa,tfs,,,COLLARES EN SUELA,accesorio,0,0,690
+22410001,OS. Osspret shampoo mix frutal 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,210
+22410002,OS. Osspret shampoo algas 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,210
+22410003,OS. Osspret shampoo cachorros 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,210
+22410004,OS. Osspret enjuague reacondicionador 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,250
+22410005,OS. Osspret enjuague reacondicionador especial 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,250
+22410006,OS. Osspret shampoo máximo color blanco 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,230
+22410007,OS. Osspret shampoo máximo color negro 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,230
+22410008,OS. Osspret shampoo máximo color bronce 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,230
+22410009,OS. Osspret shampoo tradicional 250ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,210
+22410011,OS. Osspret shampoo potenciado,tfs,,,COLLARES EN SUELA,accesorio,0,0,250
+23140002,CY. Cynthilab repelente a otra parte - rociador,tfs,,,COLLARES EN SUELA,accesorio,0,0,480
+23140003,CY. Cynthilab repelente a otra parte - concentrado 600ml,tfs,,,COLLARES EN SUELA,accesorio,0,0,420
+p1,PAÑO PET GRANDE X BOLSA,panopet,,,60x90 ,accesorio,0,0,210
+p2,PAÑO PET CHICO X BOLSA,panopet,,,45 x 55,accesorio,0,0,190
+p3,CARPET PET CHICA,panopet,,,50x 35,accesorio,0,0,1600
+p4,CARPET PETGRANDE,panopet,,,70 x 53,accesorio,0,0,1800
+p5,cubo de tela,panopet,,,,accesorio,0,0,900
+p6,Colchoneta ,panopet,,,,accesorio,0,0,800

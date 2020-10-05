@@ -1,0 +1,140 @@
+{% import "bootstrap/utils.html" as utils %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% extends "base.html" %}
+{% block title %}Carga Codigo Barras{% endblock %}
+{% block custom_css %}
+<link   rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-table.min.css') }}">
+{% endblock %}
+{% block body %}
+<div class="content-section">
+  <div class="outer">
+    <div class="middle">
+      <div class="inner">
+        <br/>
+        {{ utils.flashed_messages() }}
+        <br/>
+        <h1 style="text-align:center;">alimentos</h1>
+          <!-- <hr class="intro-divider"> -->
+          <form>
+            <div class="form-group col-md-4">
+              <div class="col">
+              <label for="ean">Codigo de Barras</label>
+              <input type="text" class="form-control" id="ean" placeholder="Bar code">
+            </div>
+            <div class="form-group col-md-4">
+              <label for="producto">descripcion</label>
+              <input type="input" class="form-control" id="producto" >
+            </div>
+            <div class="form-group col-md-4">
+              <label for="codigo">Codigo</label>
+              <input type="text" class="form-control" id="codigo" >
+            </div>
+            </div>
+          </form>
+          <div class="center" style='width:75%'>
+            <table
+                  id="table"
+                  data-toolbar="#toolbar"
+                  data-pagination="true"
+                  data-side-pagination="server"
+                  data-query-params="queryParams"
+                  data-url="../busqueda"
+                  >
+                 <thead>
+                 <tr>
+                  <th data-field="codigo"  data-sortable="true">Codigo</th>
+                   <th data-field="tipo" data-sortable="true">Tipo</th>
+                   <th data-field="descripcion" data-sortable="true">Producto</th>
+                   <th data-field="ean"  data-sortable="true">EAN</th>
+                   <th data-field="proveedor"  data-sortable="true">Marca</th>
+                   <th data-field="kg"  data-sortable="true">Kg</th>
+                   <th data-field="precio" data-editable="true">Precio</th>
+                   <th data-field="operate" data-formatter="operateFormatter" data-events="operateEvents">Asignar</th>
+                 </tr>
+               </thead>
+            </table>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block js %}
+<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/tableExport.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap-table.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap-table-locale-all.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap-table-export.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/fontawesome/all.js') }}" data-auto-replace-svg="nest"></script>
+<script src="{{ url_for('static', filename='js/jquery.autocomplete.min.js') }}"></script>
+<script type="text/javascript">
+  var $table = $('#table');
+  function initTable() {
+    $table.bootstrapTable('destroy').bootstrapTable({
+       height: 700,
+       locale: 'en-US'
+     })
+   }
+
+   $(function() {
+    initTable()
+  })
+
+
+
+$(function() {
+  $('#producto').keyup(function (data) {
+    $table.bootstrapTable('refreshOptions', {
+      showColumns: true,
+      search: true,
+      showRefresh: true,
+      url: '../busqueda?descripcion='+data.currentTarget.value
+    })
+  })
+  $('#codigo').keyup(function (data) {
+    $table.bootstrapTable('refreshOptions', {
+      showColumns: true,
+      search: true,
+      showRefresh: true,
+      url: '../busqueda?codigo='+data.currentTarget.value
+    })
+  })
+})
+
+function operateFormatter(value, row, index) {
+  return [
+    '<a class="like" href="javascript:void(0)" title="Asignar">',
+    '<i class="far fa-arrow-alt-circle-up"></i>',
+    '</a>  '
+  ].join('')
+}
+
+window.operateEvents = {
+  'click .like': function (e, value, row, index) {
+    var number=document.getElementById("ean").value;
+    if (len(number)<10) {
+      alert("No se puede actualizar el codigo, la longitud es corta")
+    }
+    else{
+      $.ajax({
+        url: 'ean',
+        type:'POST',
+        data:{'id':row.codigo,'ean':number},
+        success:function(result){
+          $table.bootstrapTable('refresh')
+          alert('Actualizo el codigo de barras')
+        },
+        error:function(error){
+          console.log('Error ${error}')
+        }
+      })
+      // alert("Moviendo el inventario")
+    }
+    // alert('You click like action, row: ' + JSON.stringify(row))
+  },
+
+}
+</script>
+
+{% endblock %}
