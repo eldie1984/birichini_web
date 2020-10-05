@@ -2,7 +2,7 @@
 {% extends "base.html" %}
 {% block title %}alimentos{% endblock %}
 {% block custom_css %}
-<link   rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-table.min.css') }}">
+<link   rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.10.0/bootstrap-table.min.css">
 {% endblock %}
 {% block body %}
 <div class="content-section">
@@ -90,13 +90,13 @@
 {% endblock %}
 
 {% block js %}
-<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
-<script src="{{ url_for('static', filename='js/tableExport.min.js') }}"></script>
-<script src="{{ url_for('static', filename='js/bootstrap-table.min.js') }}"></script>
-<script src="{{ url_for('static', filename='js/bootstrap-table-locale-all.min.js') }}"></script>
-<script src="{{ url_for('static', filename='js/bootstrap-table-export.min.js') }}"></script>
-<script src="{{ url_for('static', filename='js/fontawesome/all.js') }}" data-auto-replace-svg="nest"></script>
-<script src="{{ url_for('static', filename='js/jquery.autocomplete.min.js') }}"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
+<script src="https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js"></script>
+<script src="https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table-locale-all.min.js"></script>
+<script src="https://unpkg.com/bootstrap-table@1.14.2/dist/extensions/export/bootstrap-table-export.min.js"></script>
+<script src="https://use.fontawesome.com/releases/v5.9.0/js/all.js" data-auto-replace-svg="nest"></script>
+<script src="https://unpkg.com/bootstrap-table@1.14.2/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
 <script type="text/javascript">
 var $table = $('#table');
     $(function () {

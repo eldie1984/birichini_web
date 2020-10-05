@@ -27,8 +27,8 @@ class Venta(db.Model):
     """
 
     __tablename__ = 'venta'
-
-    codigo = db.Column(db.String(10), primary_key=True)
+    id = db.Column(db.Integer(), primary_key=True)
+    codigo = db.Column(db.String(10))
     tipo = db.Column(db.String(20))
     categoria = db.Column(db.String(20))
     proveedor = db.Column(db.String(50))

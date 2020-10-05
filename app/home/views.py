@@ -9,7 +9,7 @@ from . import home
 from .forms import AlimentoForm,EanForm
 from .. import db
 from ..models import Alimento, Venta
-import datetime
+from datetime import datetime
 
 def query_to_list(rset):
     """List of result
@@ -175,8 +175,9 @@ def vender_alimento(id):
         db.session.add(venta)
         db.session.commit()
         flash('You have successfully added a new venta.')
-    except:
+    except Exception as inst :
         # in case alimento name already exists
+        print(str(inst))
         flash('Error: no se pudo procesar la venta')
 
         # redirect to the alimentos page
@@ -231,8 +232,7 @@ def subir_productos():
         df=df.drop(0)
         df.set_index('codigo',inplace=True)
         df.to_sql('alimento', if_exists='replace',con=db.engine)
-        print(df)
-        print(df.columns)
+        return redirect(url_for('home.list_alimentos'))
 
         return jsonify({"result":request.get_array(field_name='file')})
     return '''
@@ -246,6 +246,12 @@ def subir_productos():
 
 @home.route('/alimentos/descargar', methods=['GET','POST'])
 def descargar_productos():
-    return excel.make_response_from_tables(db.session,[Alimento,Venta],'xls',file_name='productos')
+    now = datetime.now() 
+    return excel.make_response_from_tables(db.session,[Alimento,Venta],'xlsx',file_name='productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")))
 
     #
+@home.route('/alimentos/buscar', methods=['GET', 'POST'])
+def buscar():
+   
+    return render_template('home/alimentos/buscar.html',
+                           title="Buscar")
