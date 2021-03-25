@@ -1,8 +1,9 @@
-from flask import abort, flash, redirect, render_template, url_for,jsonify,request
+from flask import abort, flash, redirect, render_template, url_for,jsonify,request,send_file
 from flask_login import current_user, login_required
 import pandas as pd
 from sqlalchemy.inspection import inspect
-import flask_excel as excel
+from xlsxwriter import Workbook
+#import flask_excel as excel
 
 from . import home
 
@@ -246,12 +247,18 @@ def subir_productos():
 
 @home.route('/alimentos/descargar', methods=['GET','POST'])
 def descargar_productos():
-    now = datetime.now() 
-    return excel.make_response_from_tables(db.session,[Alimento,Venta],'xlsx',file_name='productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")))
+    now = datetime.now()
+    # return excel.make_response_from_tables(db.session,[Alimento,Venta],'xlsx',file_name='productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")))
+    result = db.engine.execute("select * from alimento")
+    df=pd.DataFrame(result.fetchall())
+    writer1 = pd.ExcelWriter('productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")), engine='xlsxwriter')
+    df.to_excel(writer1, sheet_name='name of sheet 1', index=False, startrow=0)
+    writer1.save()
+    return send_file('../productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")))
 
     #
 @home.route('/alimentos/buscar', methods=['GET', 'POST'])
 def buscar():
-   
+
     return render_template('home/alimentos/buscar.html',
                            title="Buscar")
