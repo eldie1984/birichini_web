@@ -16,7 +16,7 @@ class Alimento(db.Model):
     proveedor = db.Column(db.String(50))
     descripcion = db.Column(db.String(200))
     kg = db.Column(db.String(8))
-    precio = db.Column(db.Float())
+    precio = db.Column(db.String(8))
     ean = db.Column(db.String(13))
     arriba = db.Column(db.Integer())
     abajo = db.Column(db.Integer())

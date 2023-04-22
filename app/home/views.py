@@ -1,8 +1,9 @@
-from flask import abort, flash, redirect, render_template, url_for,jsonify,request
+from flask import abort, flash, redirect, render_template, url_for,jsonify,request,send_file
 from flask_login import current_user, login_required
 import pandas as pd
 from sqlalchemy.inspection import inspect
-import flask_excel as excel
+from xlsxwriter import Workbook
+#import flask_excel as excel
 
 from . import home
 
@@ -24,7 +25,7 @@ def query_to_list(rset):
 @home.route('/')
 def homepage():
     """
-    Render the homepage template on the / route
+    Render the homepage template on the / route adslangldsng l
     """
     return render_template('home/index.html', title="Welcome")
 
@@ -146,8 +147,8 @@ def mover_alimento(id):
     add_alimento = False
 
     alimento = Alimento.query.get_or_404(id)
-    alimento.arriba = alimento.arriba+1
-    alimento.abajo = alimento.abajo-1
+    alimento.arriba = int(alimento.arriba)+1
+    alimento.abajo = int(alimento.abajo)-1
     db.session.commit()
     flash('You have successfully edited the alimento.')
 
@@ -164,9 +165,9 @@ def vender_alimento(id):
 
     alimento = Alimento.query.get_or_404(id)
     if alimento.arriba >0:
-        alimento.arriba = alimento.arriba-1
+        alimento.arriba = int(alimento.arriba)-1
     else:
-        alimento.abajo = alimento.abajo-1
+        alimento.abajo = int(alimento.abajo)-1
     db.session.commit()
 
     venta = Venta(codigo=id,tipo =alimento.tipo,    categoria = alimento.categoria,    proveedor = alimento.proveedor,    descripcion = alimento.descripcion,    kg = alimento.kg,    precio = alimento.precio,    ean = alimento.ean)
@@ -246,12 +247,18 @@ def subir_productos():
 
 @home.route('/alimentos/descargar', methods=['GET','POST'])
 def descargar_productos():
-    now = datetime.now() 
-    return excel.make_response_from_tables(db.session,[Alimento,Venta],'xlsx',file_name='productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")))
+    now = datetime.now()
+    # return excel.make_response_from_tables(db.session,[Alimento,Venta],'xlsx',file_name='productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")))
+    result = db.engine.execute("select * from alimento")
+    df=pd.DataFrame(result.fetchall())
+    writer1 = pd.ExcelWriter('productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")), engine='xlsxwriter')
+    df.to_excel(writer1, sheet_name='name of sheet 1', index=False, startrow=0)
+    writer1.save()
+    return send_file('../productos_{}'.format(now.strftime("%m_%d_%Y_%H%M%S")))
 
     #
 @home.route('/alimentos/buscar', methods=['GET', 'POST'])
 def buscar():
-   
+
     return render_template('home/alimentos/buscar.html',
                            title="Buscar")

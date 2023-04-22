@@ -14,8 +14,9 @@ db = SQLAlchemy()
 
 def create_app(config_name):
     app = Flask(__name__, instance_relative_config=True)
-    app.config.from_object(app_config[config_name])
+    #app.config.from_object(app_config[config_name])
     app.config.from_pyfile('config.py')
+    app.config["SQLALCHEMY_DATABASE_URI"]='postgresql://naoispmdeotyla:f6c79e30d9f22deb29ca444431e0c392a5111feb17b3df37b088c74fd65277ed@ec2-44-197-128-108.compute-1.amazonaws.com:5432/d18tik4chetjgk'
     db.init_app(app)
     migrate = Migrate(app, db)
     Bootstrap(app)
